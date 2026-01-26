@@ -68,7 +68,7 @@ An end-to-end automation pipeline that transforms a single topic into fully prod
 - Multi-modal AI integration (GPT-4o, Gemini, Flux, Runway, ElevenLabs)
 - Cost-aware execution minimizing API waste
 
-[Technical Deep Dive →](https://github.com/JuneBay/WhatIF_ContentFactory) | [Showcase →](https://github.com/JuneBay/WhatIF_ContentFactory)
+[Technical Deep Dive →](https://github.com/JuneBay/WhatIF-Factory-Showcase) | [Source Code →](https://github.com/JuneBay/WhatIF_ContentFactory)
 
 ---
 
