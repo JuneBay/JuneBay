@@ -110,8 +110,7 @@ A serverless IoT data collection system for remote farm monitoring, collecting s
 - Remote monitoring and control capabilities
 - Long-term operational stability focus
 
-[Technical Deep Dive →](#) | *Private Repository*
-
+[Technical Deep Dive →](https://github.com/JuneBay/FarmStudio-Showcase) | *Private Repository*
 ---
 
 ### 💹 Mini Citadel
