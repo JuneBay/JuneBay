@@ -130,7 +130,7 @@ A real-time trading and portfolio management system with WebSocket integration, 
 - WebSocket real-time data processing
 - Backward-compatible performance optimization
 
-[Technical Deep Dive →](https://github.com/JuneBay/Mini-Citadel) | *Financial strategies confidential*
+[Technical Deep Dive →](https://github.com/JuneBay/Mini-Citadel-Showcase) | *Financial strategies confidential*
 
 ---
 
