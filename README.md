@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junebay-blue?style=flat&logo=linkedin)](https://linkedin.com/in/junebay)
 [![GitHub](https://img.shields.io/badge/GitHub-JuneBay-black?style=flat&logo=github)](https://github.com/JuneBay)
-[![Email](https://img.shields.io/badge/Email-jbjhun@gmail.com-red?style=flat&logo=gmail)](mailto:jbjhun@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-blue?style=flat&logo=linkedin)](https://linkedin.com/in/junebay)
 
 *Seoul, South Korea | Remote Available*
 
@@ -176,7 +176,7 @@ I'm open to discussing architecture challenges, automation opportunities, and ho
 
 - **LinkedIn**: [linkedin.com/in/junebay](https://linkedin.com/in/junebay)
 - **GitHub**: [github.com/JuneBay](https://github.com/JuneBay)
-- **Email**: [jbjhun@gmail.com](mailto:jbjhun@gmail.com)
+- **Contact**: [Contact via LinkedIn](https://linkedin.com/in/junebay)
 
 ---
 
