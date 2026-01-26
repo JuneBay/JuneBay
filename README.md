@@ -89,7 +89,7 @@ A serverless web application for integrated land parcel management, combining pu
 - Public API integration (VWorld OpenAPI)
 - Project state persistence (LocalStorage + File API)
 
-[Technical Deep Dive →](https://github.com/JuneBay/My-Land-Manager) | [Live Demo →](https://my-land-manager.vercel.app)
+[Technical Deep Dive →](https://github.com/JuneBay/My-Land-Manager-Showcase) | [Live Demo →](https://my-land-manager.vercel.app)
 
 ---
 
