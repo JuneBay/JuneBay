@@ -68,7 +68,9 @@ An end-to-end automation pipeline that transforms a single topic into fully prod
 - Multi-modal AI integration (GPT-4o, Gemini, Flux, Runway, ElevenLabs)
 - Cost-aware execution minimizing API waste
 
-[Technical Deep Dive →](https://github.com/JuneBay/WhatIF-Factory-Showcase) | [Source Code →](https://github.com/JuneBay/WhatIF_ContentFactory)
+**Live Demo:** [@WhatIF_Factory_Official](https://www.youtube.com/@WhatIF_Factory_Official) YouTube Channel
+
+[Technical Deep Dive →](https://github.com/JuneBay/WhatIF-Factory-Showcase) | [Showcase →](https://github.com/JuneBay/WhatIF-Factory-Showcase)
 
 ---
 
@@ -110,7 +112,8 @@ A serverless IoT data collection system for remote farm monitoring, collecting s
 - Remote monitoring and control capabilities
 - Long-term operational stability focus
 
-[Technical Deep Dive →](https://github.com/JuneBay/FarmStudio-Showcase) | *Private Repository*
+[Technical Deep Dive →](https://github.com/JuneBay/FarmStudio-Showcase)
+
 ---
 
 ### 💹 Mini Citadel
@@ -130,7 +133,7 @@ A real-time trading and portfolio management system with WebSocket integration, 
 - WebSocket real-time data processing
 - Backward-compatible performance optimization
 
-[Technical Deep Dive →](https://github.com/JuneBay/Mini-Citadel-Showcase) | *Financial strategies confidential*
+[Technical Deep Dive →](https://github.com/JuneBay/Mini-Citadel-Showcase)
 
 ---
 
