@@ -6,7 +6,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junebay-blue?style=flat&logo=linkedin)](https://linkedin.com/in/junebay)
 [![GitHub](https://img.shields.io/badge/GitHub-JuneBay-black?style=flat&logo=github)](https://github.com/JuneBay)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Contact-blue?style=flat&logo=linkedin)](https://linkedin.com/in/junebay)
 
 *Seoul, South Korea | Remote Available*
 
@@ -18,7 +17,7 @@
 
 Over 25 years of engineering experience spanning legacy systems to modern generative AI orchestration. I specialize in translating business value into technical architecture—not as a code-first engineer, but as a solution architect who designs systems that deliver measurable outcomes under real-world constraints.
 
-My approach centers on **cost-aware architecture** and **operational sustainability**. Rather than pursuing theoretical perfection, I focus on building systems that work reliably in production, reduce operational costs, and scale gracefully. This philosophy has enabled achievements like **98.9% labor cost reduction** and **$0 infrastructure costs** through strategic design choices.
+My approach centers on **cost-aware architecture** and **operational sustainability**. Rather than pursuing theoretical perfection, I focus on building systems that work reliably in production, reduce operational costs, and scale gracefully. This philosophy has enabled achievements like **98% cost reduction** and **$0 infrastructure costs** through strategic design choices.
 
 I leverage AI as a design partner—not a replacement for judgment—using it to explore architectural options, evaluate trade-offs, and accelerate execution while maintaining human oversight at critical decision points.
 
@@ -27,7 +26,7 @@ I leverage AI as a design partner—not a replacement for judgment—using it to
 ## Core Expertise
 
 ### AI & Machine Learning
-- **Multi-modal AI Orchestration**: GPT-4o, Gemini 1.5 Pro, Flux 2.0, Runway Gen-4, ElevenLabs
+- **Multi-modal AI Orchestration**: GPT-4o, Gemini 1.5 Pro, Runway ML, Google Veo, ElevenLabs
 - **Human-in-the-Loop Systems**: Cost-aware checkpoints, granular rollback, quality control automation
 - **AI Pipeline Architecture**: End-to-end automation with stateful, recoverable workflows
 
@@ -37,7 +36,7 @@ I leverage AI as a design partner—not a replacement for judgment—using it to
 - **Scalable Systems**: Real-time data processing, WebSocket architectures, distributed workflows
 
 ### Software Engineering
-- **Languages**: Python, JavaScript, C++, C#
+- **Languages**: Python, JavaScript, C++, C#, SQL
 - **Frameworks**: Streamlit, PySide6 (Qt), Leaflet.js, FFmpeg
 - **Architecture Patterns**: Event-driven systems, microservices, stateful pipelines
 
@@ -57,20 +56,23 @@ I leverage AI as a design partner—not a replacement for judgment—using it to
 An end-to-end automation pipeline that transforms a single topic into fully produced, localized content across 20 languages. Designed for operational sustainability rather than blind automation.
 
 **Key Metrics:**
-- **98.9% labor cost reduction** (90 person-hours → 1 person-hour per video)
-- **$0.48/video** production cost (optimized mode)
-- **30-minute** production cycle (Shorts format)
-- **24x productivity** increase (1 video/days → 24 videos/day)
+- **98% cost reduction**: $1,350 → under $16 per video
+- **24x productivity increase**: 1 video/day → 24 videos/day
+- **5+ person teams → 1-person** supervised autonomous system
+- **20-language** multilingual automation (1,800+ manual hours saved)
+- **Platform versatility**: Shorts, Product Demos, Manuals, Marketing
 
 **Technical Highlights:**
+- Replaced 5+ person manual teams with 1-person supervised system
+- Platform-agnostic: Shorts/Reels, product demos, manuals, marketing content
 - SRT-driven timing architecture eliminating manual video editing
 - Human-in-the-loop checkpoints with granular rollback
-- Multi-modal AI integration (GPT-4o, Gemini, Flux, Runway, ElevenLabs)
+- Multi-modal AI integration (GPT-4o, Gemini, Runway ML, Veo, ElevenLabs)
 - Cost-aware execution minimizing API waste
 
 **Live Demo:** [@WhatIF_Factory_Official](https://www.youtube.com/@WhatIF_Factory_Official) YouTube Channel
 
-[Technical Deep Dive →](https://github.com/JuneBay/WhatIF-Factory-Showcase) | [Showcase →](https://github.com/JuneBay/WhatIF-Factory-Showcase)
+[Technical Deep Dive →](https://github.com/JuneBay/WhatIF-Factory-Showcase)
 
 ---
 
@@ -81,17 +83,46 @@ A serverless web application for integrated land parcel management, combining pu
 
 **Key Metrics:**
 - **$0 infrastructure costs** (Vercel Free Tier + VWorld OpenAPI)
+- **Patent-pending** dispute risk management features
 - **80%+ time reduction** in repetitive workflows
 - **100MB+ geospatial data** optimization
-- **Patent-pending** core logic
+- **Government portal integration** (Toji-eum, Supreme Court Registry)
 
 **Technical Highlights:**
+- Dispute Risk Management: Virtual surveying for boundary disputes
+- One-Stop Workflow: Seamless integration with government land portals
 - Pure client-side architecture (no backend servers)
 - Dynamic chunk loading for large datasets
+- Stateful workflow with save/load/resume capabilities
 - Public API integration (VWorld OpenAPI)
-- Project state persistence (LocalStorage + File API)
 
 [Technical Deep Dive →](https://github.com/JuneBay/My-Land-Manager-Showcase) | [Live Demo →](https://my-land-manager.vercel.app)
+
+---
+
+### 💹 Mini Citadel
+**Trader Decision Support System (TDSS) | Financial Systems Architect**
+
+A centralized Trader Decision Support System (TDSS) that orchestrates multi-API signals and aggregates market data into a unified, high-frequency dashboard. Built on 25+ years of financial systems experience.
+
+**Key Metrics:**
+- **90% performance improvement** (50ms → <5ms lookup via O(1) architecture)
+- **80% UI latency reduction** (500ms → 100ms via direct memory reference)
+- **Centralized Gateway** for multi-machine signal orchestration
+- **Real-time API health monitoring** across all connected services
+- **Automated data archiving** for algorithmic trading development
+- **25+ years** financial market experience
+
+**Technical Highlights:**
+- Centralized Gateway: Multi-machine signal orchestration
+- API Health Monitoring: Real-time connection status tracking
+- Data Archiving: Automated historical data pipeline for backtesting
+- Multi-Account Management: Scalable trading operations
+- O(1) Hashmap architecture (50ms → <5ms lookup)
+- Direct memory reference (zero-copy UI updates)
+- WebSocket real-time data processing
+
+[Technical Deep Dive →](https://github.com/JuneBay/Mini-Citadel-Showcase)
 
 ---
 
@@ -102,38 +133,20 @@ A serverless IoT data collection system for remote farm monitoring, collecting s
 
 **Key Metrics:**
 - **$0 server costs** (email-based data pipeline)
-- **5 ESP32 devices** managed remotely
+- **>99% data delivery rate** in unstable rural networks
+- **5 ESP32 devices** managed remotely (100km+ distance)
 - **OTA firmware updates** for zero-touch maintenance
 - **1+ year** continuous operation
 
 **Technical Highlights:**
-- Email-based asynchronous data aggregation
+- Self-healing data: Regex normalization + time-series interpolation
+- Email store-and-forward for network resilience
+- Email-based asynchronous data aggregation (SMTP/IMAP)
 - Multi-format sensor data standardization
 - Remote monitoring and control capabilities
 - Long-term operational stability focus
 
 [Technical Deep Dive →](https://github.com/JuneBay/FarmStudio-Showcase)
-
----
-
-### 💹 Mini Citadel
-**Real-time Portfolio Management System | Financial Data Systems Developer**
-
-A real-time trading and portfolio management system with WebSocket integration, built on 25+ years of financial systems experience.
-
-**Key Metrics:**
-- **90% performance improvement** (50ms → 5ms lookup)
-- **80% UI latency reduction** (500ms → 100ms)
-- **Real-time** portfolio tracking and risk management
-- **25+ years** financial market experience
-
-**Technical Highlights:**
-- Hashmap-based data structure (O(n) → O(1))
-- Direct memory reference architecture
-- WebSocket real-time data processing
-- Backward-compatible performance optimization
-
-[Technical Deep Dive →](https://github.com/JuneBay/Mini-Citadel-Showcase)
 
 ---
 
@@ -144,7 +157,7 @@ A real-time trading and portfolio management system with WebSocket integration, 
 I design systems that work reliably in production, reduce operational costs, and maintain consistency over time. Every architectural decision is evaluated through the lens of operational sustainability—not just initial development speed, but long-term maintainability and cost efficiency.
 
 This philosophy has enabled achievements like:
-- **98.9% labor cost reduction** through strategic automation
+- **98% cost reduction** through strategic automation
 - **$0 infrastructure costs** via serverless architecture
 - **90% performance improvements** through data structure optimization
 - **24x productivity increases** through end-to-end automation
@@ -153,10 +166,10 @@ This philosophy has enabled achievements like:
 
 ## Recent Achievements
 
-- 🏆 **98.9% labor cost reduction** - Converted 5-person team workflow to single-operator system
-- 💰 **$0.48/video production cost** - Optimized AI service selection and cost-aware execution
+- 🏆 **98% cost reduction** - $1,350 → $16 per video through AI automation
+- 💰 **5-person teams → 1-person system** - Replaced manual teams with supervised automation
 - ⚡ **90% performance improvement** - Redesigned data structures from O(n) to O(1) lookup
-- 🌍 **20-country multilingual automation** - Single-source content to 20 languages (99.94% cost reduction)
+- 🌍 **20-language multilingual automation** - Single-source content to 20 languages (99.94% cost reduction)
 - 🏗️ **$0 infrastructure costs** - Serverless architecture using public APIs
 - 📈 **24x productivity increase** - End-to-end automation enabling 24 videos/day production
 
@@ -164,8 +177,9 @@ This philosophy has enabled achievements like:
 
 ## Current Focus
 
-- **MyLandManager**: Enhancing perimeter calculation logic for government competition submission
-- **WhatIF Factory**: Optimizing AI pipeline costs and expanding use cases beyond YouTube Shorts
+- **MyLandManager**: Commercializing patent-pending dispute risk management features
+- **WhatIF Factory**: Optimizing AI pipeline costs and expanding platform versatility
+- **Mini Citadel**: Enhancing centralized gateway for multi-account trading operations
 - **Portfolio Showcase**: Building public-facing documentation for technical deep dives
 
 ---
