@@ -6,8 +6,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junebay-blue?style=flat&logo=linkedin)](https://linkedin.com/in/junebay)
 [![GitHub](https://img.shields.io/badge/GitHub-JuneBay-black?style=flat&logo=github)](https://github.com/JuneBay)
+[![Web](https://img.shields.io/badge/Web-macrobay.kr-brightgreen?style=flat&logo=vercel)](https://macrobay.kr)
 
 *Seoul, South Korea | Remote Available*
+
+**Macrobay** — IT Solutions by JuneBay
 
 </div>
 
@@ -105,7 +108,8 @@ Every system I build is evaluated through one lens: **does it keep running in pr
 
 ## Contact
 
-Reach me through **[LinkedIn](https://linkedin.com/in/junebay)** only.
+- **LinkedIn**: [linkedin.com/in/junebay](https://linkedin.com/in/junebay)
+- **Web**: [macrobay.kr](https://macrobay.kr)
 
 ---
 
