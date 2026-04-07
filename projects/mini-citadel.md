@@ -1,5 +1,9 @@
 # Mini Citadel — Trader Decision Support System (TDSS)
 
+<div align="center">
+  <img src="../cards/citadel.jpg" alt="Mini Citadel — Trader Decision Support System" width="100%">
+</div>
+
 *[← MACROBAY 메인으로 / Back to portfolio](../README.md)*
 
 **25+ Years Financial Systems · 90% Latency Reduction · Production · Available for Similar Projects**

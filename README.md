@@ -82,6 +82,9 @@
 각 프로젝트의 케이스 스터디는 [`projects/`](./projects/) 폴더에 있습니다.
 
 ### 🎬 [WhatIF Factory / Content Factory](./projects/content-factory.md)
+
+<a href="./projects/content-factory.md"><img src="./cards/whatif.jpg" alt="WhatIF Factory" width="100%"></a>
+
 **AI 콘텐츠 자동화 파이프라인 · 멀티 LLM 오케스트레이션**
 
 - 영상 1편 제작비 **$1,350 → $16** (98% 절감)
@@ -96,6 +99,9 @@
 ---
 
 ### 🗺️ [MyLandManager](./projects/land-manager.md) — v6.0
+
+<a href="./projects/land-manager.md"><img src="./cards/landmanager.jpg" alt="MyLandManager" width="100%"></a>
+
 **서버리스 지리정보 결정 지원 시스템 · 특허 출원**
 
 - 인프라 비용 **$0** (Vercel + 정부 OpenAPI, 순수 클라이언트 사이드)
@@ -109,6 +115,9 @@
 ---
 
 ### 💹 [Mini Citadel](./projects/mini-citadel.md) — v3
+
+<a href="./projects/mini-citadel.md"><img src="./cards/citadel.jpg" alt="Mini Citadel" width="100%"></a>
+
 **트레이더 의사결정 지원 시스템 (TDSS) · 5계층 아키텍처 · 25년+ 금융 실무 기반**
 
 - 데이터 조회 **50ms → <5ms** (90% 성능 개선, O(1) 해시맵)
@@ -122,6 +131,9 @@
 ---
 
 ### 🌾 [FarmStudio](./projects/farm-studio.md)
+
+<a href="./projects/farm-studio.md"><img src="./cards/farmstudio.jpg" alt="FarmStudio" width="100%"></a>
+
 **서버리스 IoT 원격 모니터링 · 100km+ 무인 운영 3년+**
 
 - 서버 비용 **$0** (이메일 기반 데이터 파이프라인)

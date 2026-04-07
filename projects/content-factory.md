@@ -1,5 +1,9 @@
 # Content Factory — AI Content Automation Platform
 
+<div align="center">
+  <img src="../cards/whatif.jpg" alt="WhatIF Factory — AI Content Automation Pipeline" width="100%">
+</div>
+
 *[← MACROBAY 메인으로 / Back to portfolio](../README.md)*
 
 **98% Cost Reduction · 24x Productivity · 20 Languages · Available for Similar Projects**
