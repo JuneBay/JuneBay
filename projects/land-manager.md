@@ -45,30 +45,9 @@
 
 ## 🏗️ System Architecture
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    Client Browser (Pure JS)                  │
-├─────────────────────────────────────────────────────────────┤
-│  ┌──────────────┐  ┌──────────────┐  ┌──────────────┐      │
-│  │   Leaflet    │  │   Turf.js    │  │  LocalStorage │      │
-│  │  Map Engine  │  │  Geospatial  │  │  Project Mgmt │      │
-│  └──────────────┘  └──────────────┘  └──────────────┘      │
-│         │                  │                  │              │
-│         └──────────────────┴──────────────────┘              │
-│                          │                                   │
-│                 ┌────────▼────────┐                          │
-│                 │  VWorld OpenAPI │                          │
-│                 │ (Government API)│                          │
-│                 └─────────────────┘                          │
-└─────────────────────────────────────────────────────────────┘
-                          │
-              ┌───────────┴───────────┐
-              │                       │
-    ┌─────────▼────────┐   ┌─────────▼──────────┐
-    │   Toji-eum       │   │ Supreme Court      │
-    │ (Land Registry)  │   │   Registry         │
-    └──────────────────┘   └────────────────────┘
-```
+<div align="center">
+  <img src="../cards/arch/landmanager_arch.jpg" alt="MyLandManager — System Architecture" width="100%">
+</div>
 
 **Key Architecture Decisions:**
 - **No Backend**: Pure client-side application (zero server costs)

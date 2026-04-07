@@ -51,39 +51,9 @@ Engineered with a "No-Database" architecture using Email protocols, the platform
 
 ## 🏗️ System Architecture
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Remote Farm (100km+ away)                     │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │  ESP32 #1  │  ESP32 #2  │  ESP32 #3  │  ESP32 #4  │ #5  │   │
-│  │  (Temp)    │  (Humidity)│  (Camera)  │  (Soil)    │ ... │   │
-│  └──────────────────────────────────────────────────────────┘   │
-│                          │                                       │
-│                          ▼                                       │
-│                   ┌─────────────┐                                │
-│                   │ SMTP Client │                                │
-│                   │ (Email Send)│                                │
-│                   └─────────────┘                                │
-└─────────────────────────────────────────────────────────────────┘
-                          │
-                          │ (Unstable Network)
-                          │ Store-and-Forward
-                          ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                      Gmail SMTP/IMAP                             │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │  Inbox (Data Storage) │ Sent (C2 Commands)               │   │
-│  └──────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────┘
-                          │
-                          ▼
-┌─────────────────────────────────────────────────────────────────┐
-│                    Data Processing Server                        │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │  IMAP Poller │ Regex Parser │ Interpolator │ Visualizer │   │
-│  └──────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+  <img src="../cards/arch/farmstudio_arch.jpg" alt="FarmStudio — System Architecture" width="100%">
+</div>
 
 **Key Architecture Components:**
 - **ESP32 IoT Devices**: Remote sensors with SMTP client firmware

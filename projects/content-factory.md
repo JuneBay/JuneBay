@@ -56,38 +56,9 @@ The platform is **industry-agnostic**, supporting diverse use cases from social 
 
 ## 🏗️ System Architecture
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                    Human-in-the-Loop (HITL)                      │
-│  ┌──────────────────────────────────────────────────────────┐   │
-│  │  Topic Input │ Quality Review │ Final Approval │ Deploy  │   │
-│  └──────────────────────────────────────────────────────────┘   │
-└─────────────────────────────────────────────────────────────────┘
-                               │
-                ┌──────────────┴──────────────┐
-                │                             │
-         ┌──────▼──────┐             ┌───────▼──────┐
-         │  Content    │             │  Localization│
-         │  Generation │             │   Pipeline   │
-         │  (GPT-4o)   │             │  (20+ langs) │
-         └─────────────┘             └──────────────┘
-                │                             │
-                └──────────────┬──────────────┘
-                               │
-                ┌──────────────▼──────────────┐
-                │   Video Production Pipeline  │
-                │  ┌────────────────────────┐ │
-                │  │ Runway ML / Veo (AI)   │ │
-                │  │ FFmpeg (Processing)    │ │
-                │  │ SRT Timing Engine      │ │
-                │  └────────────────────────┘ │
-                └──────────────┬──────────────┘
-                               │
-                ┌──────────────▼──────────────┐
-                │  Automated Distribution     │
-                │  (YouTube, Social Platforms)│
-                └─────────────────────────────┘
-```
+<div align="center">
+  <img src="../cards/arch/whatif_arch.jpg" alt="WhatIF Factory — System Architecture" width="100%">
+</div>
 
 **Key Architecture Components:**
 - **Human-in-the-Loop**: Strategic oversight at critical decision points
