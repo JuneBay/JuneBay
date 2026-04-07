@@ -1,5 +1,9 @@
 # FarmStudio — Serverless IoT Monitoring Platform
 
+<div align="center">
+  <img src="../cards/farmstudio.jpg" alt="FarmStudio — Serverless IoT Monitoring" width="100%">
+</div>
+
 *[← MACROBAY 메인으로 / Back to portfolio](../README.md)*
 
 **$0 Server · >99% Delivery · 1+ Year Operation · Available for Similar Projects**

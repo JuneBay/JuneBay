@@ -1,5 +1,9 @@
 # MyLandManager — Geospatial Decision Support System
 
+<div align="center">
+  <img src="../cards/landmanager.jpg" alt="MyLandManager — Serverless Geospatial DSS" width="100%">
+</div>
+
 *[← MACROBAY 메인으로 / Back to portfolio](../README.md)*
 
 **Patent-Pending · $0 Infrastructure · Production · Available for Similar Projects**
