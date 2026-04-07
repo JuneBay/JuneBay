@@ -11,13 +11,13 @@
 <div align="center">
 
 **1인 사업자 · End-to-End 시스템 설계 및 빌드 · 25년+ 실무**
-**MACROBAY · Solo Studio · Seoul / Cheongyang · Remote Worldwide**
+**MACROBAY · Solo Studio · South Korea · Remote Worldwide**
 
 [![Web](https://img.shields.io/badge/Web-macrobay.kr-brightgreen?style=for-the-badge&logo=vercel)](https://macrobay.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junebay-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/junebay)
 [![GitHub](https://img.shields.io/badge/GitHub-JuneBay-black?style=for-the-badge&logo=github)](https://github.com/JuneBay)
 
-**Macrobay** — IT Solutions by JuneBay
+**MACROBAY** — IT Solutions by JuneBay
 
 </div>
 
