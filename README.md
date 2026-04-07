@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="./banner.jpg" alt="MACROBAY — Solo Systems Studio" width="100%">
+</div>
+
 # MACROBAY — Systems Architecture for SMBs & Founders
 
 > **"기술 사양을 몰라도 괜찮습니다. 메모·사진·문서·음성 뭐든 주시면 정리해서 방향 제안드리고, 확인 후 빌드합니다."**
