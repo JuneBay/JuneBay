@@ -6,7 +6,7 @@
 
 *[← MACROBAY 메인으로 / Back to portfolio](../README.md)*
 
-**Patent-Pending · $0 Infrastructure · Production · Available for Similar Projects**
+**$0 Infrastructure · Production · Available for Similar Projects**
 
 > 비슷한 작업 의뢰 가능합니다. 외주 문의는 [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/) 으로.
 
@@ -23,7 +23,7 @@
 - **$0 infrastructure costs** (Vercel Free Tier + VWorld OpenAPI)
 - **80%+ time reduction** in repetitive workflows
 - **100MB+ geospatial data** optimization
-- **Patent-pending** dispute risk management features
+- **Dispute risk management** features (pre-calculation of litigation/survey costs)
 - **Government portal integration** (Toji-eum, Supreme Court Registry)
 
 ---
@@ -31,7 +31,7 @@
 ## 🚀 Key Achievements
 
 ### Innovation & Commercialization
-- **Patent-Pending Features**: Developed proprietary geospatial analysis algorithms, currently in commercialization phase
+- **Proprietary Geospatial Algorithms**: Developed custom geospatial analysis algorithms, currently in commercialization phase
 - **Dispute Risk Management**: Pre-calculate litigation and professional survey costs through virtual surveying simulation—addressing Korea's severe cadastral mismatch issues
 - **One-Stop Workflow**: Seamlessly integrated with government land portals (Toji-eum, Supreme Court Registry), enabling users to transition from analysis to document issuance without context switching
 
@@ -83,7 +83,7 @@
 - **CORS Handling**: JSONP fallback for cross-origin requests
 - **Result**: Always up-to-date data without infrastructure overhead
 
-### 5. Dispute Risk Management (Patent-Pending)
+### 5. Dispute Risk Management
 - **Virtual Surveying**: Simulate professional boundary surveys before expensive legal proceedings
 - **Cost Pre-calculation**: Estimate litigation and professional survey costs based on parcel complexity
 - **Risk Assessment**: Identify high-risk parcels with cadastral mismatches
@@ -227,12 +227,12 @@ My-Land-Manager/
 - **Chunk Loading**: Enables processing of datasets larger than available RAM
 - **Stateful Design**: Reduces repetitive work through project persistence
 - **Government Integration**: One-stop workflow from analysis to document issuance
-- **Patent-Pending Features**: Proprietary dispute risk management algorithms
+- **Proprietary Algorithms**: Custom dispute risk management algorithms
 
 ---
 
 ## 📈 Business Impact
-- **Commercialization**: Patent-pending features driving product development
+- **Commercialization**: Proprietary features driving product development
 - **Market Fit**: Addresses critical pain points in Korean land management
 - **Scalability**: Zero marginal cost per additional user
 - **Sustainability**: $0 operational costs ensure long-term viability

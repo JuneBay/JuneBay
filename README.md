@@ -40,7 +40,7 @@
 **MACROBAY는 1인 시스템 아키텍처 스튜디오입니다.**
 - 25년 이상 시스템 설계·운영 경험 (금융, AI, IoT, 지리정보, 자동화)
 - 코드만 짜는 게 아니라 **"비즈니스 목표 → 작동하는 시스템"** 까지 책임
-- $0 인프라 / 3년+ 무중단 운영 / 특허 출원 / 90% 성능 개선 등 실제 운영 결과 보유
+- $0 인프라 / 3년+ 무중단 운영 / 90% 성능 개선 등 실제 운영 결과 보유
 - **"이론적 완벽함보다 현실 운영 가능성"** — 비용·운영 지속성 우선 설계
 
 **MACROBAY is a 1-person systems architecture studio**, founded by a senior architect with 25+ years across finance, AI, IoT, geospatial, and automation. We focus on **operational sustainability over theoretical perfection** — building systems that survive in production at sustainable cost.
@@ -55,7 +55,7 @@
 |---|---|---|---|
 | 1 | **AI 자동화 파이프라인** | WhatIF Factory: $1,350 → $16/영상, 24x 생산성 | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
 | 2 | **금융 시스템 / 트레이딩 인프라** | Mini Citadel: 50ms → <5ms, 90% 성능 개선 | Python · asyncio · WebSocket · O(1) hashmap · PySide6 |
-| 3 | **지리정보 / 결정 지원** | MyLandManager: $0 인프라, 100MB+ 처리, 특허 출원 | Leaflet · Turf.js · VWorld API · Vercel |
+| 3 | **지리정보 / 결정 지원** | MyLandManager: $0 인프라, 100MB+ 처리 | Leaflet · Turf.js · VWorld API · Vercel |
 | 4 | **IoT 원격 모니터링** | FarmStudio: $0 서버, >99% 전송률, 3년+ 운영 | ESP32 · SMTP/IMAP · OTA 펌웨어 · 자가복구 데이터 |
 | 5 | **데이터 수집 / 크롤링 자동화** | 6계정 이메일 통합, 위시켓·Upwork 스크래핑 | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
 | 6 | **업무 자동화 / 어드민 / CRM** | 알림 봇, 일일 리포트, AI 분류 파이프라인 | Python · n8n · Telegram Bot API · Flask |
@@ -102,11 +102,11 @@
 
 <a href="./projects/land-manager.md"><img src="./cards/landmanager.jpg" alt="MyLandManager" width="100%"></a>
 
-**서버리스 지리정보 결정 지원 시스템 · 특허 출원**
+**서버리스 지리정보 결정 지원 시스템**
 
 - 인프라 비용 **$0** (Vercel + 정부 OpenAPI, 순수 클라이언트 사이드)
 - **100MB+ 지적도 데이터** 브라우저 청크 로딩
-- 분쟁 위험 사전 시뮬레이션 — **특허 출원 완료**
+- 분쟁 위험 사전 시뮬레이션
 - 수기 작업 시간 **80% 단축**
 - 정부 포털(토지이음, 인터넷등기소) 통합
 
