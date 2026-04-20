@@ -153,6 +153,8 @@
 
 ### 🧠 LLM 파이프라인 · AI 에이전트 / LLM Pipeline & AI Agents
 
+<img src="./cards/llm-pipeline.png" alt="LLM Pipeline Engineering" width="100%">
+
 **AI 문서 자동 구조화 · 비용 최적화 · 업무 자동화 에이전트**
 **AI Document Structuring · Cost Optimization · Workflow Automation Agents**
 
