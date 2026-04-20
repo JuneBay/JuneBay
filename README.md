@@ -1,3 +1,7 @@
+<div align="right">
+  🌐 <strong>한국어</strong> | <a href="./README.en.md">English</a>
+</div>
+
 <div align="center">
   <img src="./banner.jpg" alt="MACROBAY — Solo Systems Studio" width="100%">
 </div>
@@ -59,6 +63,7 @@
 | 4 | **IoT 원격 모니터링** | FarmStudio: $0 서버, >99% 전송률, 3년+ 운영 | ESP32 · SMTP/IMAP · OTA 펌웨어 · 자가복구 데이터 |
 | 5 | **데이터 수집 / 크롤링 자동화** | 6계정 이메일 통합, 위시켓·Upwork 스크래핑 | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
 | 6 | **업무 자동화 / 어드민 / CRM** | 알림 봇, 일일 리포트, AI 분류 파이프라인 | Python · n8n · Telegram Bot API · Flask |
+| 7 | **LLM 파이프라인 · AI 에이전트** | 문서 자동 구조화 (95%+ 정확도), API 비용 40~70% 절감, 업무 자동화 에이전트 | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
 
 → 각 카테고리에서 **작은 모듈 (1주 이내)** 부터 **풀스택 시스템 (1~3개월)** 까지 받습니다.
 
@@ -146,31 +151,47 @@
 
 ---
 
+### 🧠 LLM 파이프라인 · AI 에이전트 / LLM Pipeline & AI Agents
+
+**AI 문서 자동 구조화 · 비용 최적화 · 업무 자동화 에이전트**
+**AI Document Structuring · Cost Optimization · Workflow Automation Agents**
+
+- PDF/Word/Excel에서 지정 필드 자동 추출, **95%+ 정확도** — Structured Outputs으로 환각 구조적 차단
+  Automated field extraction from PDF/Word/Excel, **95%+ accuracy** — hallucination structurally blocked via Structured Outputs
+- 멀티 스테이지 모델 라우팅으로 API 비용 **40~70% 절감**, 실제 데이터 기반 GPT-4o · Claude · Gemini 벤치마킹
+  Multi-stage model routing cuts API costs **40–70%**; real-data benchmarking across GPT-4o / Claude / Gemini
+- Plan → Act → Observe 루프 에이전트 — DB 조회·API 호출·슬랙 전송 등 실제 시스템 액션 수행
+  Plan → Act → Observe loop agent — takes real actions: DB writes, API calls, Slack messages
+- 예산 안전장치 + 하드 상한 + 비동기 작업 큐(BullMQ) · 4종 에러 분류 · 파괴적 액션 휴먼 승인 구조
+  Budget guard + hard cap + async job queue (BullMQ) · 4-category error classification · human-in-the-loop for destructive actions
+
+---
+
 ## 기술 스택 / Tech Stack
 
 **Languages**
 Python · JavaScript · C++ · C# · SQL · C · Arduino
 
 **Backend / Frameworks**
-Flask · FastAPI · Node.js · asyncio · ZeroMQ · WebSocket
+Flask · FastAPI · Express · Node.js · asyncio · ZeroMQ · WebSocket · BullMQ · Redis · PostgreSQL · SQLite
 
 **Frontend**
 React · PySide6 (Qt) · Streamlit · Leaflet.js · Vanilla JS
 
 **AI / LLM**
-GPT-4o · Gemini 1.5 Pro · Claude · Runway ML · Google Veo · ElevenLabs · Whisper
+GPT-4o · GPT-4o-mini · Claude · Gemini · Runway ML · Google Veo · ElevenLabs · Whisper · Structured Outputs
 
 **Cloud / DevOps**
-Vercel · Docker · AWS · GCP · Azure · GitHub Actions
+Vercel · Docker · AWS · GCP · Azure · GitHub Actions · Railway
 
 **Data / Automation**
-Playwright · BeautifulSoup · pandas · imaplib · MSAL OAuth2 · n8n · Telegram Bot
+Playwright · Puppeteer · Selenium · BeautifulSoup · pandas · openpyxl · yt-dlp · imaplib · MSAL OAuth2 · n8n · Telegram Bot
 
 **IoT / Hardware**
-ESP32 · DHT22 · OTA Updates · SMTP/IMAP Pipelines
+ESP32 · Raspberry Pi · DHT22 · RS485/Modbus RTU · OTA Updates · SMTP/IMAP Pipelines
 
 **Domains**
-Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · AI Content Pipelines · Data Collection · Workflow Automation
+Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · AI Content Pipelines · LLM Pipeline Engineering · AI Workflow Agents · Document AI · LegalTech · Korean STT/Audio Annotation · Data Collection · Workflow Automation
 
 ---
 
