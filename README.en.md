@@ -130,6 +130,8 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 
 ### 🧠 LLM Pipeline · AI Agents
 
+<img src="./cards/llm-pipeline.png" alt="LLM Pipeline Engineering" width="100%">
+
 **AI Document Structuring · Cost Optimization · Workflow Automation Agents**
 
 - Automated field extraction from PDF/Word/Excel, **95%+ accuracy** — hallucination structurally blocked via Structured Outputs
