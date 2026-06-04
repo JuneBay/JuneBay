@@ -128,6 +128,19 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 
 ---
 
+### ☀️ [Solar Smart-Farm](./projects/solar-smartfarm.md)
+**Solar-Powered Smart-Farm · 6-Device RS485/Modbus Integration · Real-time Remote Control**
+
+- **6 RS485/Modbus devices** unified (solar MPPT · DC-DC · 3-phase meter · temp/humidity · lux)
+- **Solar off-grid power monitoring** — generation & load at a glance
+- Raspberry Pi gateway → **Firebase real-time dashboard** (PC / mobile)
+- **3-channel relay** auto-control (time · temperature · humidity) + manual toggle
+- **Remote, same-day** fixes — no site visits
+
+→ [View Case Study →](./projects/solar-smartfarm.md)
+
+---
+
 ### 🧠 LLM Pipeline · AI Agents
 
 <img src="./cards/llm-pipeline.png" alt="LLM Pipeline Engineering" width="100%">

@@ -151,6 +151,22 @@
 
 ---
 
+### ☀️ [Solar Smart-Farm](./projects/solar-smartfarm.md)
+
+<a href="./projects/solar-smartfarm.md"><img src="./cards/solar-smartfarm.jpg" alt="Solar Smart-Farm" width="100%"></a>
+
+**태양광 구동 스마트팜 · RS485/Modbus 6장치 통합 · 실시간 원격 제어**
+
+- **6개 RS485/Modbus 장치** 통합 (태양광 MPPT·DC-DC·3상 전력계·온습도·조도)
+- **태양광 오프그리드** 전원 모니터링 — 발전·부하 한눈에
+- 라즈베리파이 게이트웨이 → **Firebase 실시간 대시보드** (PC/모바일)
+- **3채널 릴레이** 자동 제어 (시간·온도·습도 3조건) + 수동 토글
+- **원격 당일 대응** — 현장 방문 없이 설정·수정 처리
+
+→ [케이스 스터디 보기 →](./projects/solar-smartfarm.md)
+
+---
+
 ### 🧠 LLM 파이프라인 · AI 에이전트 / LLM Pipeline & AI Agents
 
 <img src="./cards/llm-pipeline.png" alt="LLM Pipeline Engineering" width="100%">
