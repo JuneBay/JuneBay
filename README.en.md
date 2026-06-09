@@ -47,7 +47,7 @@
 | # | Category | Representative Result | Core Tech |
 |---|---|---|---|
 | 1 | **AI Automation Pipelines** | WhatIF Factory: $1,350 → $16/video, 24x productivity | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
-| 2 | **Financial Systems / Trading Infrastructure** | Mini Citadel: 50ms → <5ms, 90% performance gain | Python · asyncio · WebSocket · O(1) hashmap · PySide6 |
+| 2 | **Financial / Market Data Systems** | Brokerage-API data integration, collection & processing automation; real-time dashboard & alerts (no auto-trading) | Python · Broker API · WebSocket · SQLite · FastAPI |
 | 3 | **Geospatial / Decision Support** | MyLandManager: $0 infrastructure, 100MB+ processing | Leaflet · Turf.js · VWorld API · Vercel |
 | 4 | **IoT Remote Monitoring** | FarmStudio: $0 server, >99% delivery rate, 3+ years running | ESP32 · SMTP/IMAP · OTA firmware · self-healing data |
 | 5 | **Data Collection / Scraping Automation** | 6-account email integration, platform scraping | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
@@ -103,16 +103,16 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 
 ---
 
-### 💹 [Mini Citadel](./projects/mini-citadel.md) — v3
-**Trader Decision Support System (TDSS) · 5-Layer Architecture · 25+ Years Finance**
+### 💹 [Market Data Systems](./projects/market-data.md)
+**Stock/Financial Data Integration · Processing · Automation — collection to real-time dashboards & alerts (25+ yrs finance)**
 
-- Data query: **50ms → <5ms** (90% improvement, O(1) hashmap)
-- UI response: **500ms → 100ms** (80% improvement, direct memory reference)
-- ZMQ-based multi-machine signal orchestration gateway
-- Real-time API health monitoring
-- Auto data archiving (for backtesting)
+- Brokerage-API (e.g. Kiwoom) data integration & collection automation (REST/WebSocket)
+- Account · symbol · market data → derived-metric processing (sort, sum, ratio, change %)
+- Real-time dashboard (PC/mobile) + multi-channel alerts (Telegram · Slack · email)
+- Data storage & auto-backup (SQLite)
+- **No auto-trading, no investment advice, no recommendations** — facts & alerts only
 
-→ [View Case Study →](./projects/mini-citadel.md)
+→ [View Case Study →](./projects/market-data.md)
 
 ---
 

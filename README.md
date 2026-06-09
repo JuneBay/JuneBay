@@ -58,7 +58,7 @@
 | # | 카테고리 | 대표 결과물 | 핵심 기술 |
 |---|---|---|---|
 | 1 | **AI 자동화 파이프라인** | WhatIF Factory: $1,350 → $16/영상, 24x 생산성 | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
-| 2 | **금융 시스템 / 트레이딩 인프라** | Mini Citadel: 50ms → <5ms, 90% 성능 개선 | Python · asyncio · WebSocket · O(1) hashmap · PySide6 |
+| 2 | **금융·증권 데이터 시스템** | 증권사 API 데이터 통합·수집·가공 자동화, 실시간 대시보드·다중 알림 (자동매매 미포함) | Python · 증권사 API · WebSocket · SQLite · FastAPI |
 | 3 | **지리정보 / 결정 지원** | MyLandManager: $0 인프라, 100MB+ 처리 | Leaflet · Turf.js · VWorld API · Vercel |
 | 4 | **IoT 원격 모니터링** | FarmStudio: $0 서버, >99% 전송률, 3년+ 운영 | ESP32 · SMTP/IMAP · OTA 펌웨어 · 자가복구 데이터 |
 | 5 | **데이터 수집 / 크롤링 자동화** | 공공데이터·공개 소스 수집 (공공 API · 정적/동적 웹) · 다중 계정 이메일 통합 · OAuth 토큰 자동 갱신 · ToS 준수·rate-limit 배려 | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
@@ -120,19 +120,19 @@
 
 ---
 
-### 💹 [Mini Citadel](./projects/mini-citadel.md) — v3
+### 💹 [Market Data Systems](./projects/market-data.md)
 
-<a href="./projects/mini-citadel.md"><img src="./cards/citadel.jpg" alt="Mini Citadel" width="100%"></a>
+<a href="./projects/market-data.md"><img src="./cards/market-data.jpg" alt="Market Data Systems" width="100%"></a>
 
-**트레이더 의사결정 지원 시스템 (TDSS) · 5계층 아키텍처 · 25년+ 금융 실무 기반**
+**증권·금융 데이터 통합 · 2차 가공 · 자동화 — 수집부터 실시간 대시보드·알림까지 (25년+ 금융 실무)**
 
-- 데이터 조회 **50ms → <5ms** (90% 성능 개선, O(1) 해시맵)
-- UI 반응 **500ms → 100ms** (80% 개선, 직접 메모리 참조)
-- ZMQ 기반 다중 머신 신호 오케스트레이션 게이트웨이
-- 실시간 API 상태 모니터링
-- 자동 데이터 아카이빙 (백테스팅용)
+- 증권사 API(키움 등) 데이터 통합·수집 자동화 (REST/WebSocket)
+- 계좌·종목·시장 데이터 → 파생 지표 2차 가공 (정렬·합계·비중·증감률)
+- 실시간 대시보드 (PC/모바일) + 다중 알림 (텔레그램·슬랙·이메일)
+- 데이터 저장·자동 백업 (SQLite)
+- **자동매매·투자판단·추천 미포함** — 사실 데이터·알림 only
 
-→ [케이스 스터디 보기 →](./projects/mini-citadel.md)
+→ [케이스 스터디 보기 →](./projects/market-data.md)
 
 ---
 
