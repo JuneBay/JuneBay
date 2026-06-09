@@ -64,6 +64,7 @@
 | 5 | **데이터 수집 / 크롤링 자동화** | 공공데이터·공개 소스 수집 (공공 API · 정적/동적 웹) · 다중 계정 이메일 통합 · OAuth 토큰 자동 갱신 · ToS 준수·rate-limit 배려 | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
 | 6 | **업무 자동화 / 어드민 / CRM** | 알림 봇, 일일 리포트, AI 분류 파이프라인 | Python · n8n · Telegram Bot API · Flask |
 | 7 | **LLM 파이프라인 · AI 에이전트** | 문서 자동 구조화 (95%+ 정확도), API 비용 40~70% 절감, 업무 자동화 에이전트 | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
+| 8 | **ERP · 업무 시스템 구축/연동** | 맞춤형 ERP (입고·재고·판매·정산) · 구매·정산 자동화 AI 에이전트 · 솔루션 간 무손실 데이터 연동 | FastAPI · MSSQL · PostgreSQL · OpenAI Function Calling · LangGraph · openpyxl · APScheduler |
 
 → 각 카테고리에서 **작은 모듈 (1주 이내)** 부터 **풀스택 시스템 (1~3개월)** 까지 받습니다.
 
@@ -191,7 +192,7 @@
 Python · JavaScript · C++ · C# · SQL · C · Arduino
 
 **Backend / Frameworks**
-Flask · FastAPI · Express · Node.js · asyncio · ZeroMQ · WebSocket · BullMQ · Redis · PostgreSQL · SQLite
+Flask · FastAPI · Express · Node.js · asyncio · ZeroMQ · WebSocket · BullMQ · Redis · PostgreSQL · MSSQL · SQLite · LangGraph
 
 **Frontend**
 React · PySide6 (Qt) · Streamlit · Leaflet.js · Vanilla JS
@@ -209,7 +210,7 @@ Playwright · Puppeteer · Selenium · BeautifulSoup · pandas · openpyxl · yt
 ESP32 · Raspberry Pi · DHT22 · RS485/Modbus RTU · OTA Updates · SMTP/IMAP Pipelines
 
 **Domains**
-Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · AI Content Pipelines · LLM Pipeline Engineering · AI Workflow Agents · Document AI · LegalTech · Korean STT/Audio Annotation · Data Collection · Workflow Automation
+Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · AI Content Pipelines · LLM Pipeline Engineering · AI Workflow Agents · Document AI · LegalTech · ERP & Business Systems Integration · Korean STT/Audio Annotation · Data Collection · Workflow Automation
 
 ---
 
