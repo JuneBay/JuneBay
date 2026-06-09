@@ -168,6 +168,21 @@
 
 ---
 
+### ⚖️ [LawLingo](https://lawlingo.macrobay.kr) — RAG 법률 AI
+
+<a href="https://lawlingo.macrobay.kr"><img src="./cards/lawlingo.jpg" alt="LawLingo — RAG-Powered Legal AI" width="100%"></a>
+
+**미국 임대차법 다국어 RAG Q&A · 출처 인용 · 환각 방지**
+
+- 캘리포니아 민법 **11개 조문 85청크** 벡터 검색 (Chroma + OpenAI 임베딩)
+- **Translation-Augmented Retrieval** — 한국어 질문 → 영어 검색 → 한국어 답변
+- 조항 **출처 인용** + golden-set 회귀 테스트로 환각 차단
+- LangChain + FastAPI + Next.js 16 / React 19 · Railway + Vercel 배포
+
+→ [라이브 데모 →](https://lawlingo.macrobay.kr) · [Showcase →](https://github.com/JuneBay/LawLingo-Showcase)
+
+---
+
 ### 🧠 LLM 파이프라인 · AI 에이전트 / LLM Pipeline & AI Agents
 
 <img src="./cards/llm-pipeline.png" alt="LLM Pipeline Engineering" width="100%">
