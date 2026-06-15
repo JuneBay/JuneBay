@@ -142,12 +142,13 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 
 ---
 
-### ⚖️ [LawLingo](https://lawlingo.macrobay.kr) — RAG Legal AI
-**Multilingual RAG Q&A on US tenant-rights law · Citation-grounded · Hallucination-proof**
+### ⚖️ [LawLingo](https://lawlingo.macrobay.kr) — Multilingual Legal RAG (v3)
+**Multilingual, multi-jurisdiction legal RAG (v3) · US + Korea statutes · Citation-grounded · Hallucination-proof**
 
-- **11 California Civil Code sections, 85 chunks** vector search (Chroma + OpenAI embeddings)
-- **Translation-Augmented Retrieval** — Korean question → English retrieval → Korean answer
-- **Source citations** per clause + golden-set regression tests block hallucination
+- **2 jurisdictions** — U.S. (California Civil Code) + Korea (주택임대차보호법)
+- **Ask in any language** — English / 한국어 / 日本語 / Español → answer in *your* language, citations kept in the original (§ / 제○조)
+- **Mode 2 — chat with your PDF** — upload any document, answers grounded only in it with source quotes
+- **Source citations** + out-of-scope refusal block hallucination
 - LangChain + FastAPI + Next.js 16 / React 19 · deployed on Railway + Vercel
 
 → [Live Demo →](https://lawlingo.macrobay.kr) · [Showcase →](https://github.com/JuneBay/LawLingo-Showcase)
