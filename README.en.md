@@ -54,8 +54,11 @@
 | 6 | **Workflow Automation / Admin / CRM** | Alert bots, daily reports, AI classification pipelines | Python · n8n · Telegram Bot API · Flask |
 | 7 | **LLM Pipelines · AI Agents** | Document auto-structuring (95%+ accuracy), 40–70% cost reduction, workflow automation agents | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
 | 8 | **ERP & Business Systems** | Custom ERP (inbound→inventory→sales→settlement) · procurement/settlement AI agent · zero-loss data sync | FastAPI · MSSQL · PostgreSQL · OpenAI Function Calling · LangGraph · openpyxl · APScheduler |
+| 9 | **E-Commerce · Marketplace Integration / Booking Sync** | 5-marketplace order collection → status normalization → 3PL sync (idempotent · multi-tenant key encryption) · real-time booking sync (optimistic lock · atomic confirm) | NestJS · TypeORM · MongoDB · PostgreSQL · Mongoose |
+| 10 | **Admin · Back-Office Dashboards** | Performance-eval · board/ads · keyword · people-counting back-offices (RBAC · RLS · charts · Excel · **air-gapped Docker delivery**) | Next.js · Supabase · Recharts · xlsx |
 
 → From **small modules (under 1 week)** to **full-stack systems (1–3 months)** in each category.
+→ **10+ live services are running in production at [macrobay.kr](https://macrobay.kr).**
 
 ---
 
@@ -174,10 +177,13 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 Python · JavaScript · C++ · C# · SQL · C · Arduino
 
 **Backend / Frameworks**
-Flask · FastAPI · Express · Node.js · asyncio · ZeroMQ · WebSocket · BullMQ · Redis · PostgreSQL · MSSQL · SQLite · LangGraph
+Flask · FastAPI · Express · NestJS · Node.js · asyncio · ZeroMQ · WebSocket · BullMQ · TypeORM · Mongoose · Redis · PostgreSQL · MongoDB · MSSQL · SQLite · node:sqlite · Mosquitto MQTT · LangGraph
 
 **Frontend**
-React · PySide6 (Qt) · Streamlit · Leaflet.js · Vanilla JS
+React · Next.js · PySide6 (Qt) · Streamlit · Leaflet.js · Recharts · Vanilla JS
+
+**Backend-as-a-Service**
+Supabase (Auth · RLS · Edge Functions) · Firebase (Realtime DB · Hosting)
 
 **AI / LLM**
 GPT-4o · GPT-4o-mini · Claude · Gemini · Runway ML · Google Veo · ElevenLabs · Whisper · Structured Outputs
@@ -192,7 +198,7 @@ Playwright · Puppeteer · Selenium · BeautifulSoup · pandas · openpyxl · yt
 ESP32 · Raspberry Pi · DHT22 · RS485/Modbus RTU · OTA Updates · SMTP/IMAP Pipelines
 
 **Domains**
-Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · AI Content Pipelines · LLM Pipeline Engineering · AI Workflow Agents · Document AI · LegalTech · ERP & Business Systems Integration · Korean STT/Audio Annotation · Data Collection · Workflow Automation
+Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · Sensor / People-Counting (MQTT) · AI Content Pipelines · LLM Pipeline Engineering · AI Workflow Agents · Document AI · LegalTech · Psychology-Safety Guardrail RAG · ERP & Business Systems Integration · E-Commerce / Multi-Marketplace Order Integration · Booking / Reservation Systems · Admin / Back-Office Dashboards · Korean STT/Audio Annotation · Data Collection · Workflow Automation
 
 ---
 
