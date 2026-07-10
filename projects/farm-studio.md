@@ -6,7 +6,7 @@
 
 *[← MACROBAY 메인으로 / Back to portfolio](../README.md)*
 
-**$0 Server · >99% Delivery · 1+ Year Operation · Available for Similar Projects**
+**$0 Server · High Delivery Reliability · Long-Term Operation · Available for Similar Projects**
 
 > 비슷한 작업 의뢰 가능합니다. 외주 문의는 [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/) 으로.
 
@@ -16,27 +16,27 @@
 
 ## 🎯 프로젝트 개요 / Project Overview
 
-**[KR]** **FarmStudio**는 원격 농장 모니터링을 위한 서버리스 IoT 데이터 수집 시스템으로, 100km 이상 떨어진 ESP32 장치로부터 센서·이미지 데이터를 전용 인프라 없이 수집합니다. 이메일 기반 비동기 데이터 파이프라인을 통해 **운영비 $0**를 달성했으며, 무인 유지보수 상태로 **1년 이상 연속 운영**을 유지하고 있습니다.
+**[KR]** **FarmStudio**는 원격 농장 모니터링을 위한 서버리스 IoT 데이터 수집 시스템으로, 100km 이상 떨어진 ESP32 장치로부터 센서·이미지 데이터를 전용 인프라 없이 수집합니다. 이메일 기반 비동기 데이터 파이프라인을 통해 **운영비 $0**를 달성했으며, 무인 유지보수 상태로 장기 연속 운영을 유지하고 있습니다.
 
-**[EN]** **FarmStudio** is a serverless IoT data collection system for remote farm monitoring, collecting sensor and image data from ESP32 devices located 100km+ away without dedicated infrastructure. The system achieves **$0 operational costs** through an email-based asynchronous data pipeline and maintains **1+ year continuous operation** with zero-touch maintenance.
+**[EN]** **FarmStudio** is a serverless IoT data collection system for remote farm monitoring, collecting sensor and image data from ESP32 devices located 100km+ away without dedicated infrastructure. The system achieves **$0 operational costs** through an email-based asynchronous data pipeline and maintains long-term continuous operation with zero-touch maintenance.
 
-**[KR]** 이메일 프로토콜을 활용한 "No-Database" 아키텍처로 설계되어, 이메일 고유의 store-and-forward 신뢰성과 **자가복구 데이터** 메커니즘(정규식 정규화 + 시계열 보간)을 통해 불안정한 시골 네트워크 환경에서도 **99% 이상의 데이터 전달률**을 달성합니다.
+**[KR]** 이메일 프로토콜을 활용한 "No-Database" 아키텍처로 설계되어, 이메일 고유의 store-and-forward 신뢰성과 **자가복구 데이터** 메커니즘(정규식 정규화 + 시계열 보간)을 통해 불안정한 시골 네트워크 환경에서도 높은 데이터 전달 신뢰성을 확보합니다.
 
-**[EN]** Engineered with a "No-Database" architecture using Email protocols, the platform achieves **>99% data delivery rate** in unstable rural network environments by leveraging email's inherent store-and-forward reliability and **self-healing data** mechanisms (regex normalization + time-series interpolation).
+**[EN]** Engineered with a "No-Database" architecture using Email protocols, the platform sustains high data-delivery reliability in unstable rural network environments by leveraging email's inherent store-and-forward reliability and **self-healing data** mechanisms (regex normalization + time-series interpolation).
 
 ### 핵심 지표 / Key Metrics
 - **서버 비용 $0** (이메일 기반 데이터 파이프라인)
-- **불안정한 시골 네트워크에서 99% 이상 데이터 전달률**
+- **불안정한 시골 네트워크에서도 높은 데이터 전달 신뢰성**
 - **ESP32 장치 5대** 원격 관리 (100km 이상 거리)
 - **OTA 펌웨어 업데이트**로 무인 유지보수
-- **1년 이상** 무개입 연속 운영
+- 장기 무개입 연속 운영
 - 정규식 정규화 및 보간을 통한 **자가복구 데이터**
 
 - **$0 server costs** (email-based data pipeline)
-- **>99% data delivery rate** in unstable rural networks
+- **High data-delivery reliability** in unstable rural networks
 - **5 ESP32 devices** managed remotely (100km+ distance)
 - **OTA firmware updates** for zero-touch maintenance
-- **1+ year** continuous operation without intervention
+- Long-term continuous operation without intervention
 - **Self-healing data** through regex normalization and interpolation
 
 ---
@@ -46,11 +46,11 @@
 ### 혁신성 & 비용 효율성 / Innovation & Cost Efficiency
 - **No-Database 아키텍처**: 이메일 프로토콜(SMTP/IMAP)을 백엔드로 활용하는 창의적 해법으로, 극한의 자원 제약 속에서 혁신적 문제 해결을 입증
 - **운영비 제로**: 상용 IoT 클라우드(AWS IoT, Azure IoT Hub)를 자체 Gmail SMTP/IMAP 파이프라인으로 대체하여 **월 고정비 $0** 달성
-- **고가용성**: 이메일의 store-and-forward 신뢰성을 통해 불안정한 시골 네트워크 환경에서 **99% 이상 데이터 전달률** 달성
+- **고가용성**: 이메일의 store-and-forward 신뢰성을 통해 불안정한 시골 네트워크 환경에서도 높은 데이터 전달 신뢰성 확보
 
 - **No-Database Architecture**: Engineered a creative solution using Email protocols (SMTP/IMAP) as backend, demonstrating innovative problem-solving under extreme resource constraints
 - **Zero Operating Cost**: Replaced commercial IoT cloud services (AWS IoT, Azure IoT Hub) with custom Gmail SMTP/IMAP pipeline, achieving **$0 monthly fixed costs**
-- **High Availability**: Achieved **>99% data delivery rate** in unstable rural network environments through email's store-and-forward reliability
+- **High Availability**: Sustained high data-delivery reliability in unstable rural network environments through email's store-and-forward reliability
 
 ### 네트워크 복원력 / Network Resilience
 - **이메일 Store-and-Forward**: SMTP 고유의 신뢰성을 활용해 장시간 네트워크 단절 중에도 데이터 전달 보장
@@ -62,11 +62,11 @@
 - **Self-Healing Data**: Implemented regex-based normalization and time-series interpolation to recover from sensor errors and data corruption
 
 ### 운영 우수성 / Operational Excellence
-- **장기 안정성**: 수동 개입이나 시스템 장애 없이 1년 이상 연속 운영
+- **장기 안정성**: 수동 개입이나 시스템 장애 없이 장기 연속 운영
 - **원격 관리**: OTA(Over-The-Air) 펌웨어 업데이트로 100km 이상 떨어진 장치의 무인 유지보수 실현
 - **다중 포맷 통합**: 단일 데이터 파이프라인으로 서로 다른 데이터 포맷의 ESP32 센서를 통합 처리
 
-- **Long-Term Stability**: 1+ year continuous operation without manual intervention or system failures
+- **Long-Term Stability**: long-term continuous operation without manual intervention or system failures
 - **Remote Management**: OTA (Over-The-Air) firmware updates enable zero-touch maintenance for devices 100km+ away
 - **Multi-Format Integration**: Unified data pipeline handles heterogeneous ESP32 sensors with varying data formats
 
@@ -104,22 +104,22 @@
 - **Store-and-Forward**: SMTP 고유의 신뢰성으로 데이터 전달 보장
 - **네트워크 독립성**: 장치는 단절 시 데이터를 큐에 보관했다가 연결되면 전송
 - **배치 처리**: IMAP 폴러가 유연한 일정으로 데이터 수집
-- **결과**: 불안정한 네트워크에서 **99% 이상 데이터 전달률**
+- **결과**: 불안정한 네트워크에서도 높은 데이터 전달 신뢰성
 
 - **Store-and-Forward**: SMTP's inherent reliability ensures data delivery
 - **Network Independence**: Devices queue data during outages, send when connected
 - **Batch Processing**: IMAP poller retrieves data on flexible schedules
-- **Result**: **>99% data delivery rate** in unstable networks
+- **Result**: high data-delivery reliability in unstable networks
 
 ### 3. 장기 운영 안정성 / Long-Term Operational Stability
 - **OTA 펌웨어 업데이트**: 물리적 접근 없이 원격 코드 배포
 - **자가복구 데이터**: 정규식 정규화 + 보간으로 오류에서 복구
-- **무인 유지보수**: 수동 개입 없이 1년 이상 운영
+- **무인 유지보수**: 수동 개입 없이 장기 운영
 - **결과**: 원격지에서의 지속 가능한 운영
 
 - **OTA Firmware Updates**: Remote code deployment without physical access
 - **Self-Healing Data**: Regex normalization + interpolation recover from errors
-- **Zero-Touch Maintenance**: 1+ year operation without manual intervention
+- **Zero-Touch Maintenance**: long-term operation without manual intervention
 - **Result**: Sustainable operation in remote locations
 
 ### 4. 다중 포맷 데이터 표준화 / Multi-Format Data Standardization
@@ -202,12 +202,10 @@ def interpolate_missing_data(timeseries):
 ```
 
 ### 운영비 제로 전략 / Zero Operational Cost Strategy
-| Component / 구성 요소 | Commercial IoT / 상용 IoT | FarmStudio | Cost Savings / 비용 절감 |
-|-----------|----------------|------------|--------------|
-| **Data Ingestion / 데이터 수집** | AWS IoT ($0.08/M msgs) | Gmail SMTP (Free / 무료) | **100%** |
-| **Data Storage / 데이터 저장** | DynamoDB ($0.25/GB) | Gmail Inbox (Free / 무료) | **100%** |
-| **Command & Control / 명령·제어** | AWS IoT ($0.08/M msgs) | Gmail IMAP (Free / 무료) | **100%** |
-| **Total (1 year) / 합계 (1년)** | ~$50-100 | **$0** | **100%** |
+
+**[KR]** 상용 IoT는 데이터 수집·저장·명령제어에 클라우드 사용료가 붙지만, FarmStudio는 Gmail의 SMTP·수신함·IMAP을 각각 그 자리에 활용해 운영비 $0로 대체했습니다.
+
+**[EN]** Where commercial IoT charges cloud fees for ingestion, storage, and command/control, FarmStudio substitutes Gmail's SMTP, inbox, and IMAP respectively — bringing operating cost to $0.
 
 ---
 
@@ -226,7 +224,7 @@ def interpolate_missing_data(timeseries):
 ### 3. 이메일 파싱 신뢰성 / Email Parsing Reliability
 **과제 / Challenge**: 이메일 본문 파싱이 포맷 변경에 취약 / Email body parsing fragile to format changes  
 **해법 / Solution**: 폴백 파싱 전략을 갖춘 견고한 정규식 패턴 / Robust regex patterns with fallback parsing strategies  
-**결과 / Result**: 99% 이상의 데이터 추출 성공률 / >99% successful data extraction rate
+**결과 / Result**: 높은 데이터 추출 성공률 / high data-extraction success rate
 
 ### 4. OTA 펌웨어 업데이트 / OTA Firmware Updates
 **과제 / Challenge**: 100km 이상 떨어진 장치는 물리적 접근 불가 / Physical access impossible for devices 100km+ away  
@@ -241,13 +239,10 @@ def interpolate_missing_data(timeseries):
 ---
 
 ## 📊 성능 지표 / Performance Metrics
-| Metric / 지표 | Target / 목표 | Achieved / 달성 | Notes / 비고 |
-|--------|--------|----------|-------|
-| **Data Delivery Rate / 데이터 전달률** | >95% | **>99%** | 이메일 store-and-forward 신뢰성 / Email store-and-forward reliability |
-| **Operational Cost / 운영비** | <$10/month | **$0** | Gmail 무료 등급 / Gmail free tier |
-| **Uptime / 가동률** | >90% | **>99%** | 1년 이상 연속 운영 / 1+ year continuous operation |
-| **OTA Success Rate / OTA 성공률** | >90% | **100%** | 모든 원격 업데이트 성공 / All remote updates successful |
-| **Data Parsing Success / 데이터 파싱 성공률** | >95% | **>99%** | 정규식 정규화 엔진 / Regex normalization engine |
+
+**[KR]** 이메일 store-and-forward 구조와 자가복구 데이터 메커니즘으로 불안정한 시골 네트워크에서도 높은 데이터 전달·파싱 신뢰성을 유지하며, Gmail 무료 등급을 활용해 운영비 $0로 장기간 무중단 가동합니다. OTA 원격 업데이트도 안정적으로 수행됩니다.
+
+**[EN]** Email store-and-forward plus self-healing data mechanisms keep delivery and parsing reliable even on unstable rural networks, while the Gmail free tier keeps operating cost at $0 with long, uninterrupted uptime; OTA remote updates run reliably.
 
 ---
 
@@ -255,14 +250,14 @@ def interpolate_missing_data(timeseries):
 
 **[KR]** **FarmStudio**는 실제 농장 모니터링 운영 환경에 적극 배포되어 있습니다:
 
-- **상태**: 프로덕션 준비 완료, 1년 이상 연속 운영
+- **상태**: 프로덕션 준비 완료, 장기 연속 운영
 - **배포**: 원격 농장 전역에 ESP32 장치 5대 (기지에서 100km 이상)
 - **활용 사례**: 온도, 습도, 토양 수분, 카메라 감시
 - **네트워크**: 잦은 단절이 있는 불안정한 시골 4G/LTE
 
 **[EN]** **FarmStudio** is actively deployed in production farm monitoring:
 
-- **Status**: Production-ready, 1+ year continuous operation
+- **Status**: Production-ready, long-term continuous operation
 - **Deployment**: 5 ESP32 devices across remote farm (100km+ from base)
 - **Use Cases**: Temperature, humidity, soil moisture, camera surveillance
 - **Network**: Unstable rural 4G/LTE with frequent outages
