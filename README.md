@@ -44,7 +44,7 @@
 **MACROBAY는 1인 시스템 아키텍처 스튜디오입니다.**
 - 25년 이상 시스템 설계·운영 경험 (금융, AI, IoT, 지리정보, 자동화)
 - 코드만 짜는 게 아니라 **"비즈니스 목표 → 작동하는 시스템"** 까지 책임
-- $0 인프라 / 3년+ 무중단 운영 / 90% 성능 개선 등 실제 운영 결과 보유
+- $0 인프라 / 3년+ 무중단 운영 / 성능 최적화 등 실제 운영 결과 보유
 - **"이론적 완벽함보다 현실 운영 가능성"** — 비용·운영 지속성 우선 설계
 
 **MACROBAY is a 1-person systems architecture studio**, founded by a senior architect with 25+ years across finance, AI, IoT, geospatial, and automation. We focus on **operational sustainability over theoretical perfection** — building systems that survive in production at sustainable cost.
@@ -57,13 +57,13 @@
 
 | # | 카테고리 | 대표 결과물 | 핵심 기술 |
 |---|---|---|---|
-| 1 | **AI 자동화 파이프라인** | WhatIF Factory: $1,350 → $16/영상, 24x 생산성 | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
+| 1 | **AI 자동화 파이프라인** | WhatIF Factory: 멀티모델 영상 자동화, 비용 최적화 설계 | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
 | 2 | **금융·증권 데이터 시스템** | 증권사 API 데이터 통합·수집·가공 자동화, 실시간 대시보드·다중 알림 (자동매매 미포함) | Python · 증권사 API · WebSocket · SQLite · FastAPI |
 | 3 | **지리정보 / 결정 지원** | MyLandManager: $0 인프라, 100MB+ 처리 | Leaflet · Turf.js · VWorld API · Vercel |
 | 4 | **IoT 원격 모니터링** | FarmStudio: $0 서버, >99% 전송률, 3년+ 운영 | ESP32 · SMTP/IMAP · OTA 펌웨어 · 자가복구 데이터 |
 | 5 | **데이터 수집 / 크롤링 자동화** | 공공데이터·공개 소스 수집 (공공 API · 정적/동적 웹) · 다중 계정 이메일 통합 · OAuth 토큰 자동 갱신 · ToS 준수·rate-limit 배려 | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
 | 6 | **업무 자동화 / 어드민 / CRM** | 알림 봇, 일일 리포트, AI 분류 파이프라인 | Python · n8n · Telegram Bot API · Flask |
-| 7 | **LLM 파이프라인 · AI 에이전트** | 문서 자동 구조화 (95%+ 정확도), API 비용 40~70% 절감, 업무 자동화 에이전트 | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
+| 7 | **LLM 파이프라인 · AI 에이전트** | 문서 자동 구조화(Structured Outputs), 멀티스테이지 모델 라우팅으로 API 비용 최적화, 업무 자동화 에이전트 | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
 | 8 | **ERP · 업무 시스템 구축/연동** | 맞춤형 ERP (입고·재고·판매·정산) · 구매·정산 자동화 AI 에이전트 · 솔루션 간 무손실 데이터 연동 | FastAPI · MSSQL · PostgreSQL · OpenAI Function Calling · LangGraph · openpyxl · APScheduler |
 | 9 | **커머스 · 오픈마켓 통합 / 예약 연동** | 5대 오픈마켓 주문 통합수집 → 상태 정규화 → 3PL 연동 (멱등·멀티테넌트 키 암호화) · 실시간 예약 연동 (선점 락·원자적 확정) | NestJS · TypeORM · MongoDB · PostgreSQL · Mongoose |
 | 10 | **어드민 · 백오피스 대시보드** | 근무평가·게시판/광고·키워드·유동인구 백오피스 (RBAC·RLS·차트·엑셀 · **폐쇄망 Docker 납품**) | Next.js · Supabase · Recharts · xlsx |
@@ -96,8 +96,8 @@
 
 **AI 콘텐츠 자동화 파이프라인 · 멀티 LLM 오케스트레이션**
 
-- 영상 1편 제작비 **$1,350 → $16** (98% 절감)
-- 일일 생산성 **1편 → 24편** (24x)
+- 멀티모델 파이프라인 기반 저비용 영상 제작 (수작업 대비 큰 폭의 비용 절감)
+- 파이프라인 자동화로 일일 생산량 대폭 증가
 - **20개 언어** 자동 로컬라이제이션
 - 5+ 인 팀 → **1인 감독 시스템**
 - GPT-4o, Gemini, Runway ML, Google Veo, ElevenLabs 통합
@@ -194,10 +194,10 @@
 **AI 문서 자동 구조화 · 비용 최적화 · 업무 자동화 에이전트**
 **AI Document Structuring · Cost Optimization · Workflow Automation Agents**
 
-- PDF/Word/Excel에서 지정 필드 자동 추출, **95%+ 정확도** — Structured Outputs으로 환각 구조적 차단
-  Automated field extraction from PDF/Word/Excel, **95%+ accuracy** — hallucination structurally blocked via Structured Outputs
-- 멀티 스테이지 모델 라우팅으로 API 비용 **40~70% 절감**, 실제 데이터 기반 GPT-4o · Claude · Gemini 벤치마킹
-  Multi-stage model routing cuts API costs **40–70%**; real-data benchmarking across GPT-4o / Claude / Gemini
+- PDF/Word/Excel에서 지정 필드 자동 추출 — Structured Outputs으로 스키마 강제, 구조적 환각 방지
+  Automated field extraction from PDF/Word/Excel — schema-enforced via Structured Outputs to prevent structural hallucination
+- 멀티 스테이지 모델 라우팅으로 API 비용 절감, 실제 데이터 기반 GPT-4o · Claude · Gemini 벤치마킹
+  Multi-stage model routing to cut API cost; real-data benchmarking across GPT-4o / Claude / Gemini
 - Plan → Act → Observe 루프 에이전트 — DB 조회·API 호출·슬랙 전송 등 실제 시스템 액션 수행
   Plan → Act → Observe loop agent — takes real actions: DB writes, API calls, Slack messages
 - 예산 안전장치 + 하드 상한 + 비동기 작업 큐(BullMQ) · 4종 에러 분류 · 파괴적 액션 휴먼 승인 구조
@@ -243,10 +243,10 @@ Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · Sen
 > *"Practical innovation over theoretical perfection. Stable deployment over rapid iteration. Cost-aware architecture over feature bloat."*
 
 이 철학으로 만들어진 결과:
-- **98% 비용 절감** — 전략적 자동화
+- **비용 최적화 설계** — 전략적 자동화
 - **$0 인프라** — 서버리스·공공 API 활용
-- **90% 성능 개선** — 데이터 구조 최적화
-- **24x 생산성** — End-to-end 자동화
+- **성능 최적화** — 데이터 구조 최적화
+- **End-to-end 자동화** — 기획부터 배포까지 파이프라인화
 - **3년+ 무중단** — 자가복구 + 원격 관리
 
 ---
