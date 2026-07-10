@@ -6,8 +6,8 @@
 
 *[← MACROBAY 메인으로 / Back to portfolio](../README.md)*
 
-**98% 비용 절감 · 생산성 24배 · 20개 언어 · 유사 프로젝트 의뢰 가능**
-**98% Cost Reduction · 24x Productivity · 20 Languages · Available for Similar Projects**
+**AI 콘텐츠 자동화 · 다국어 자막 · 유사 프로젝트 의뢰 가능**
+**AI Content Automation · Multilingual Subtitles · Available for Similar Projects**
 
 > 비슷한 작업 의뢰 가능합니다. 외주 문의는 [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/) 으로.
 > Available for similar projects — inquiries via [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [Kmong](https://kmong.com/@JuneBay) · [Wishket](https://www.wishket.com/partners/p/somster/).
@@ -23,31 +23,31 @@
 
 ## 🎯 프로젝트 개요 / Project Overview
 
-**[KR]** **WhatIF Factory**는 하나의 주제를 20개 언어로 완전히 제작·현지화된 콘텐츠로 변환하는 프로덕션급 AI 콘텐츠 자동화 파이프라인입니다. **비용 인지 아키텍처(cost-aware architecture)**와 **휴먼-인-루프(human-in-the-loop)** 원칙으로 설계되어, **98% 비용 절감**(영상 1편당 $1,350 → $16 미만)을 달성하면서 **5인 이상의 수동 작업 팀**을 **1인 감독형 자율 시스템**으로 대체합니다.
+**[KR]** **WhatIF Factory**는 하나의 주제를 다국어로 완전히 제작·현지화된 콘텐츠로 변환하는 프로덕션급 AI 콘텐츠 자동화 파이프라인입니다. **비용 인지 아키텍처(cost-aware architecture)**와 **휴먼-인-루프(human-in-the-loop)** 원칙으로 설계되어, 제작 비용을 수작업 대비 크게 낮추면서 **5인 이상의 수동 작업 팀**을 **1인 감독형 자율 시스템**으로 대체합니다.
 
 이 플랫폼은 **산업 비종속(industry-agnostic)** 설계로, 소셜 미디어 콘텐츠(Shorts/Reels)부터 제품 시연(화장품, 산업 부품), 퀵 매뉴얼, 소비재 마케팅까지 — 모두 단일 파이프라인 아키텍처로 다양한 활용 사례를 지원합니다.
 
-**[EN]** **WhatIF Factory** is a production-grade AI content automation pipeline that transforms a single topic into fully produced, localized content across 20 languages. Designed with **cost-aware architecture** and **human-in-the-loop** principles, it achieves **98% cost reduction** (from $1,350 to under $16 per video) while replacing **5+ person manual teams** with a **1-person supervised autonomous system**.
+**[EN]** **WhatIF Factory** is a production-grade AI content automation pipeline that transforms a single topic into fully produced, localized content across multiple languages. Designed with **cost-aware architecture** and **human-in-the-loop** principles, it brings per-video production cost far below a manual workflow while replacing **5+ person manual teams** with a **1-person supervised autonomous system**.
 
 The platform is **industry-agnostic**, supporting diverse use cases from social media content (Shorts/Reels) to product demonstrations (cosmetics, industrial parts), quick manuals, and consumer goods marketing—all through a single pipeline architecture.
 
 ### 핵심 지표 / Key Metrics
 
 **[KR]**
-- **98% 비용 절감**: 영상 1편당 $1,350 → $16 미만 (최적화 모드)
-- **생산성 24배 증가**: 1편/일 → 24편/일
-- **20개 언어** 다국어 자동화 (프로젝트당 1,800시간 이상 수작업 절감)
+- **대폭적인 비용 절감**: 최적화 모드에서 수작업 대비 영상 제작 단가를 크게 낮춤
+- **생산성 대폭 향상**: 파이프라인 자동화로 일일 산출량 증대
+- **다국어 자막 자동화** (최대 20개국어 생성, 현 YouTube 배포 4개국어)
 - **5인 이상 팀 → 1인** 감독형 자율 시스템
 - **플랫폼 다용도성**: Shorts, 제품 시연, 매뉴얼, 마케팅을 위한 단일 파이프라인
-- **30분** 제작 사이클 (Shorts 포맷)
+- 짧은 제작 사이클 (Shorts 포맷)
 
 **[EN]**
-- **98% cost reduction**: $1,350 → under $16 per video (optimized mode)
-- **24x productivity increase**: 1 video/day → 24 videos/day
-- **20-language** multilingual automation (1,800+ manual hours saved per project)
+- **Major cost reduction**: per-video cost far below a manual workflow (optimized mode)
+- **Higher productivity**: pipeline automation raises daily output
+- **Multilingual subtitle automation** (generates up to ~20 languages; currently 4 published)
 - **5+ person teams → 1-person** supervised autonomous system
 - **Platform versatility**: Single pipeline for Shorts, Product Demos, Manuals, Marketing
-- **30-minute** production cycle (Shorts format)
+- Short production cycle (Shorts format)
 
 ---
 
@@ -56,14 +56,14 @@ The platform is **industry-agnostic**, supporting diverse use cases from social 
 ### 비즈니스 임팩트 / Business Impact
 
 **[KR]**
-- **획기적 비용 절감**: AI 자동화와 지능형 리소스 관리를 통해 제작 비용을 영상 1편당 **$1,350에서 $16 미만**으로 절감
-- **조직 효율화**: 5인 이상의 수동 제작 팀을 1인 감독형 자율 시스템으로 대체, **98% 이상 인건비 절감** 달성
-- **대규모 생산성 향상**: 제작 품질을 유지하면서 산출량을 1편/일에서 **24편/일**로 (24배 향상) 증대
+- **획기적 비용 절감**: AI 자동화와 지능형 리소스 관리로 제작 비용을 수작업 대비 큰 폭으로 절감
+- **조직 효율화**: 5인 이상의 수동 제작 팀을 1인 감독형 자율 시스템으로 대체해 인건비를 크게 절감
+- **대규모 생산성 향상**: 제작 품질을 유지하면서 산출량을 큰 폭으로 증대
 
 **[EN]**
-- **Drastic Cost Reduction**: Lowered production costs from **$1,350 to under $16 per video** through AI automation and intelligent resource management
-- **Organizational Efficiency**: Replaced 5+ person manual production teams with a 1-person supervised autonomous system, achieving **98%+ labor cost reduction**
-- **Massive Productivity Gain**: Increased output from 1 video/day to **24 videos/day** (24x improvement) while maintaining production quality
+- **Drastic Cost Reduction**: Lowered per-video production cost far below a manual workflow through AI automation and intelligent resource management
+- **Organizational Efficiency**: Replaced 5+ person manual production teams with a 1-person supervised autonomous system, sharply cutting labour cost
+- **Massive Productivity Gain**: Substantially increased daily output while maintaining production quality
 
 ### 플랫폼 다용도성 / Platform Versatility
 
@@ -86,12 +86,12 @@ The platform is **industry-agnostic**, supporting diverse use cases from social 
 ### 글로벌 스케일 / Global Scale
 
 **[KR]**
-- **20개 이상 언어 현지화**: 프로젝트 사이클당 **1,800시간 이상의 수작업**을 제거하는 자동 다국어 콘텐츠 생성
-- **99.94% 현지화 비용 절감**: AI 기반 번역과 음성 합성이 인간 번역가를 대체
+- **다국어 현지화**: 반복적인 수작업 번역을 제거하는 자동 다국어 콘텐츠 생성 (최대 20개국어)
+- **현지화 비용 절감**: AI 기반 번역과 음성 합성이 반복 번역 작업을 대체
 
 **[EN]**
-- **20+ Language Localization**: Automated multilingual content generation eliminating **1,800+ manual hours** per project cycle
-- **99.94% Localization Cost Reduction**: AI-driven translation and voice synthesis replacing human translators
+- **Multilingual Localization**: Automated multilingual content generation (up to ~20 languages), removing repetitive manual translation
+- **Lower Localization Cost**: AI-driven translation and voice synthesis replace repetitive translation work
 
 ---
 
@@ -141,25 +141,25 @@ The platform is **industry-agnostic**, supporting diverse use cases from social 
 - **지능형 에러 분류**: 11가지 에러 유형을 분류해 낭비성 API 재시도 방지
 - **예산 보호**: 비용 인지 로직이 복구 불가 에러 발생 시 고비용 작업을 중단
 - **리소스 최적화**: 프리미엄 AI 모델(Runway ML, Veo)을 필요할 때만 선별적으로 사용
-- **결과**: **98% 비용 절감** (영상 1편당 $1,350 → $16)
+- **결과**: 수작업 대비 제작 단가를 큰 폭으로 절감
 
 **[EN]**
 - **Intelligent Error Classification**: 11 error types categorized to prevent wasteful API retries
 - **Budget Protection**: Cost-aware logic stops expensive operations on unrecoverable errors
 - **Resource Optimization**: Selective use of premium AI models (Runway ML, Veo) only when necessary
-- **Result**: **98% cost reduction** ($1,350 → $16 per video)
+- **Result**: per-video production cost brought far below a manual workflow
 
 ### 3. SRT 기반 타이밍 아키텍처 / SRT-Driven Timing Architecture
 
 **[KR]**
 - **자동 동기화**: SRT 자막 파일이 내레이션, 장면 전환, 비주얼 타이밍을 구동
-- **수동 편집 제로**: 100% 자동 타이밍으로 수동 영상 편집 노동을 제거
+- **수동 편집 제로**: 완전 자동 타이밍으로 수동 영상 편집 노동을 제거
 - **정밀 타이밍**: 오디오·영상·텍스트의 프레임 단위 정밀 동기화
 - **결과**: Shorts 포맷 기준 **30분 제작 사이클**
 
 **[EN]**
 - **Automated Synchronization**: SRT subtitle files drive narration, scene transitions, and visual timing
-- **Zero Manual Editing**: 100% automated timing eliminates manual video editing labor
+- **Zero Manual Editing**: fully automated timing eliminates manual video editing labor
 - **Precision Timing**: Frame-accurate synchronization of audio, video, and text
 - **Result**: **30-minute production cycle** for Shorts format
 
@@ -219,13 +219,10 @@ RECOVERABLE_ERRORS = [
 ```
 
 ### 비용 최적화 전략 / Cost Optimization Strategy
-| 구성요소 / Component | 이전(수동) / Before (Manual) | 이후(AI) / After (AI) | 비용 절감 / Cost Reduction |
-|-----------|-----------------|------------|----------------|
-| **스크립트 작성 / Script Writing** | $300 (프리랜서 / freelancer) | $0.50 (GPT-4o) | **99.8%** |
-| **음성 내레이션 / Voice Narration** | $500 (성우 / voice actor) | $2.00 (ElevenLabs) | **99.6%** |
-| **영상 제작 / Video Production** | $400 (편집자 / editor) | $10.00 (Runway ML) | **97.5%** |
-| **현지화 20개 언어 / Localization (20 langs)** | $150/언어 ($3,000) / $150/lang ($3,000) | $3.00 (AI) | **99.9%** |
-| **합계 / Total** | **$1,350** | **$16** | **98.8%** |
+
+**[KR]** 스크립트 작성·음성 내레이션·영상 제작·다국어 현지화 등 사람 손이 많이 가던 단계를 각각 AI(GPT-4o·ElevenLabs·Runway ML·자동 번역)로 대체해, 수작업 대비 제작 단가를 큰 폭으로 낮췄습니다.
+
+**[EN]** Each formerly labour-intensive stage — scripting, narration, video production, multilingual localisation — is handled by AI (GPT-4o, ElevenLabs, Runway ML, automated translation), bringing per-video cost far below a manual workflow.
 
 ---
 
@@ -296,24 +293,20 @@ RECOVERABLE_ERRORS = [
 **[KR]**
 **과제**: 자동화와 품질 관리 사이의 균형  
 **해결**: 주제 선정, 품질 검토, 최종 승인 지점에 전략적 HITL 체크포인트 배치  
-**결과**: 1인 감독으로 품질을 유지하면서 98% 비용 절감 보존
+**결과**: 1인 감독으로 품질을 유지하면서 낮은 제작 단가 유지
 
 **[EN]**
 **Challenge**: Balancing automation with quality control  
 **Solution**: Strategic HITL checkpoints at topic selection, quality review, and final approval  
-**Result**: 1-person supervision maintains quality while preserving 98% cost reduction
+**Result**: 1-person supervision maintains quality while keeping production cost low
 
 ---
 
 ## 📊 성능 지표 / Performance Metrics
-| 지표 / Metric | 이전(수동) / Before (Manual) | 이후(AI) / After (AI) | 개선 / Improvement |
-|--------|-----------------|------------|-------------|
-| **제작 비용 / Production Cost** | $1,350/편 / $1,350/video | $16/편 / $16/video | **98% 절감 / reduction** |
-| **제작 시간 / Production Time** | 8시간/편 / 8 hours/video | 30분/편 / 30 minutes/video | **94% 단축 / faster** |
-| **일일 산출량 / Daily Output** | 1편/일 / 1 video/day | 24편/일 / 24 videos/day | **24배 증가 / increase** |
-| **팀 규모 / Team Size** | 5인 이상 / 5+ people | 1인(감독) / 1 person (supervised) | **80%+ 인력 절감 / labor reduction** |
-| **현지화 비용 / Localization Cost** | $3,000 (20개 언어 / 20 langs) | $3 (AI) | **99.9% 절감 / reduction** |
-| **수작업 시간 절감 / Manual Hours Saved** | 1,800시간+/프로젝트 / 1,800+ hours/project | 자동화 / Automated | **완전 자동화 / Full automation** |
+
+**[KR]** 수작업 파이프라인 대비 제작 비용과 시간을 크게 줄이고 일일 산출량을 늘리며, 5인 이상 팀이 하던 일을 1인 감독 체제로 운영합니다. 다국어 현지화도 자동화로 대체했습니다.
+
+**[EN]** Compared with a manual pipeline, the system substantially lowers production cost and time, raises daily output, and lets one supervised operator do the work of a 5+ person team — with multilingual localisation automated.
 
 ---
 
@@ -427,14 +420,14 @@ WhatIF-Factory/
 ### 왜 이 아키텍처인가? / Why This Architecture?
 
 **[KR]**
-1. **비용 효율성**: 98% 비용 절감으로 지속가능한 스케일링 가능
+1. **비용 효율성**: 낮은 제작 단가로 지속가능한 스케일링 가능
 2. **품질 유지**: HITL이 자동화에도 불구하고 브랜드 일관성 보장
 3. **운영 회복탄력성**: 상태 보존 파이프라인과 재시도 로직이 실패 방지
 4. **플랫폼 다용도성**: 단일 아키텍처가 다양한 산업에 대응
 5. **글로벌 도달**: 자동 현지화가 언어 장벽 제거
 
 **[EN]**
-1. **Cost Efficiency**: 98% cost reduction enables sustainable scaling
+1. **Cost Efficiency**: low production cost enables sustainable scaling
 2. **Quality Maintenance**: HITL ensures brand consistency despite automation
 3. **Operational Resilience**: Stateful pipeline and retry logic prevent failures
 4. **Platform Versatility**: Single architecture serves diverse industries
@@ -462,16 +455,16 @@ WhatIF-Factory/
 
 **[KR]**
 - **민주화**: 1인 창작자가 엔터프라이즈급 제작 역량에 접근
-- **확장성**: 24배 생산성으로 빠른 콘텐츠 스케일링 가능
+- **확장성**: 높은 자동화 생산성으로 빠른 콘텐츠 스케일링 가능
 - **글로벌 도달**: 20개 이상 언어 자동화로 국제 시장 개척
-- **비용 지속가능성**: 영상 1편당 $16으로 수익성 있는 콘텐츠 운영 가능
+- **비용 지속가능성**: 낮은 영상 제작 단가로 수익성 있는 콘텐츠 운영 가능
 - **팀 효율성**: 1인 감독이 5인 이상의 팀을 대체
 
 **[EN]**
 - **Democratization**: Solo creators access enterprise-grade production capabilities
-- **Scalability**: 24x productivity enables rapid content scaling
+- **Scalability**: high automated throughput enables rapid content scaling
 - **Global Reach**: 20+ language automation opens international markets
-- **Cost Sustainability**: $16/video enables profitable content operations
+- **Cost Sustainability**: low per-video cost enables profitable content operations
 - **Team Efficiency**: 1-person supervision replaces 5+ person teams
 
 ---
