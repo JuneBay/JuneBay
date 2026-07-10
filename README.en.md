@@ -35,7 +35,7 @@
 **MACROBAY is a 1-person systems architecture studio.**
 - 25+ years of systems design and operations (finance, AI, IoT, geospatial, automation)
 - We don't just write code — we take responsibility from **"business goal → working system"**
-- Proven production results: $0 infrastructure / 3+ years zero-downtime / 90% performance improvement
+- Proven production results: $0 infrastructure · 3+ years zero-downtime · sustained performance gains
 - **"Practical sustainability over theoretical perfection"** — cost and operational continuity first
 
 🌐 **Portfolio site**: [macrobay.kr](https://macrobay.kr)
@@ -46,13 +46,13 @@
 
 | # | Category | Representative Result | Core Tech |
 |---|---|---|---|
-| 1 | **AI Automation Pipelines** | WhatIF Factory: $1,350 → $16/video, 24x productivity | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
+| 1 | **AI Automation Pipelines** | WhatIF Factory: multi-model video automation, cost-optimised architecture | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
 | 2 | **Financial / Market Data Systems** | Brokerage-API data integration, collection & processing automation; real-time dashboard & alerts (no auto-trading) | Python · Broker API · WebSocket · SQLite · FastAPI |
 | 3 | **Geospatial / Decision Support** | MyLandManager: $0 infrastructure, 100MB+ processing | Leaflet · Turf.js · VWorld API · Vercel |
-| 4 | **IoT Remote Monitoring** | FarmStudio: $0 server, >99% delivery rate, 3+ years running | ESP32 · SMTP/IMAP · OTA firmware · self-healing data |
+| 4 | **IoT Remote Monitoring** | FarmStudio: $0 server, high delivery reliability, 3+ years running | ESP32 · SMTP/IMAP · OTA firmware · self-healing data |
 | 5 | **Data Collection / Scraping Automation** | 6-account email integration, platform scraping | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
 | 6 | **Workflow Automation / Admin / CRM** | Alert bots, daily reports, AI classification pipelines | Python · n8n · Telegram Bot API · Flask |
-| 7 | **LLM Pipelines · AI Agents** | Document auto-structuring (95%+ accuracy), 40–70% cost reduction, workflow automation agents | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
+| 7 | **LLM Pipelines · AI Agents** | Document auto-structuring (Structured Outputs), multi-stage model routing for API-cost efficiency, workflow automation agents | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
 | 8 | **ERP & Business Systems** | Custom ERP (inbound→inventory→sales→settlement) · procurement/settlement AI agent · zero-loss data sync | FastAPI · MSSQL · PostgreSQL · OpenAI Function Calling · LangGraph · openpyxl · APScheduler |
 | 9 | **E-Commerce · Marketplace Integration / Booking Sync** | 5-marketplace order collection → status normalization → 3PL sync (idempotent · multi-tenant key encryption) · real-time booking sync (optimistic lock · atomic confirm) | NestJS · TypeORM · MongoDB · PostgreSQL · Mongoose |
 | 10 | **Admin · Back-Office Dashboards** | Performance-eval · board/ads · keyword · people-counting back-offices (RBAC · RLS · charts · Excel · **air-gapped Docker delivery**) | Next.js · Supabase · Recharts · xlsx |
@@ -82,9 +82,9 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 ### 🎬 [WhatIF Factory / Content Factory](./projects/content-factory.md)
 **AI Content Automation Pipeline · Multi-LLM Orchestration**
 
-- Production cost per video: **$1,350 → $16** (98% reduction)
-- Daily output: **1 video → 24 videos** (24x productivity)
-- **20-language** auto-localization
+- Multi-model pipeline for low-cost video production (a fraction of manual production cost)
+- Pipeline automation for substantially higher daily output
+- **Multi-language** subtitle pipeline (generates up to ~20 languages; currently 4 published on YouTube)
 - 5+ person team → **1-person supervised system**
 - GPT-4o, Gemini, Runway ML, Google Veo, ElevenLabs integrated
 - **2 YouTube channels** live
@@ -164,8 +164,8 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 
 **AI Document Structuring · Cost Optimization · Workflow Automation Agents**
 
-- Automated field extraction from PDF/Word/Excel, **95%+ accuracy** — hallucination structurally blocked via Structured Outputs
-- Multi-stage model routing cuts API costs **40–70%**; real-data benchmarking across GPT-4o / Claude / Gemini
+- Automated field extraction from PDF/Word/Excel — schema-enforced via Structured Outputs to prevent structural hallucination
+- Multi-stage model routing to cut API cost; real-data benchmarking across GPT-4o / Claude / Gemini
 - Plan → Act → Observe loop agent — takes real actions: DB writes, API calls, Slack messages
 - Budget guard + hard cap + async job queue (BullMQ) · 4-category error classification · human-in-the-loop for destructive actions
 
@@ -207,10 +207,10 @@ Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · Sen
 > **"Practical sustainability over theoretical perfection. Stable deployment over rapid iteration. Cost-aware architecture over feature bloat."**
 
 Results built on this philosophy:
-- **98% cost reduction** — strategic automation
+- **Cost-optimised design** — strategic automation
 - **$0 infrastructure** — serverless + public APIs
-- **90% performance improvement** — data structure optimization
-- **24x productivity** — end-to-end automation
+- **Performance optimisation** — data structure optimization
+- **End-to-end automation** — from planning to deployment
 - **3+ years zero-downtime** — self-healing + remote management
 
 ---
