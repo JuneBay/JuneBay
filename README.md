@@ -60,7 +60,7 @@
 | 1 | **AI 자동화 파이프라인** | WhatIF Factory: 멀티모델 영상 자동화, 비용 최적화 설계 | GPT-4o · Gemini · Runway · Veo · ElevenLabs · n8n |
 | 2 | **금융·증권 데이터 시스템** | 증권사 API 데이터 통합·수집·가공 자동화, 실시간 대시보드·다중 알림 (자동매매 미포함) | Python · 증권사 API · WebSocket · SQLite · FastAPI |
 | 3 | **지리정보 / 결정 지원** | MyLandManager: $0 인프라, 100MB+ 처리 | Leaflet · Turf.js · VWorld API · Vercel |
-| 4 | **IoT 원격 모니터링** | FarmStudio: $0 서버, >99% 전송률, 3년+ 운영 | ESP32 · SMTP/IMAP · OTA 펌웨어 · 자가복구 데이터 |
+| 4 | **IoT 원격 모니터링** | FarmStudio: $0 서버, 높은 전송 신뢰성, 3년+ 운영 | ESP32 · SMTP/IMAP · OTA 펌웨어 · 자가복구 데이터 |
 | 5 | **데이터 수집 / 크롤링 자동화** | 공공데이터·공개 소스 수집 (공공 API · 정적/동적 웹) · 다중 계정 이메일 통합 · OAuth 토큰 자동 갱신 · ToS 준수·rate-limit 배려 | Playwright · BeautifulSoup · imaplib · MSAL OAuth2 |
 | 6 | **업무 자동화 / 어드민 / CRM** | 알림 봇, 일일 리포트, AI 분류 파이프라인 | Python · n8n · Telegram Bot API · Flask |
 | 7 | **LLM 파이프라인 · AI 에이전트** | 문서 자동 구조화(Structured Outputs), 멀티스테이지 모델 라우팅으로 API 비용 최적화, 업무 자동화 에이전트 | OpenAI GPT-4o · Claude · Gemini · FastAPI · PostgreSQL · Redis · BullMQ |
