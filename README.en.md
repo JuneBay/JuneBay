@@ -99,7 +99,7 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 - Infrastructure cost: **$0** (Vercel + government OpenAPI, pure client-side)
 - **100MB+ cadastral data** browser chunk loading
 - Pre-dispute simulation
-- Manual work time reduced **80%**
+- Manual work time substantially reduced
 - Government portal (Land Use, Registry) integration
 
 → [View Case Study →](./projects/land-manager.md) · [Live Service](https://landmanager.co.kr) · [Demo](https://my-land-manager.vercel.app)
@@ -123,7 +123,7 @@ Case studies for each project are in the [`projects/`](./projects/) folder.
 **Serverless IoT Remote Monitoring · 100km+ Unattended Operation 3+ Years**
 
 - Server cost: **$0** (email-based data pipeline)
-- Data delivery success rate: **>99%** (on unreliable rural networks)
+- High data delivery reliability on unreliable rural networks
 - 5 ESP32 devices, **100km+ remote** management
 - **OTA firmware updates** — maintenance-free
 - **3+ years continuous** zero-downtime operation
