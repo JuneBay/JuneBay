@@ -25,7 +25,7 @@
 
 ### 핵심 지표 / Key Metrics
 - **$0 인프라 비용** (Vercel Free Tier + VWorld OpenAPI) / **$0 infrastructure costs** (Vercel Free Tier + VWorld OpenAPI)
-- 반복 작업 **80%+ 시간 단축** / **80%+ time reduction** in repetitive workflows
+- 반복 작업 시간 대폭 단축 / substantial time reduction in repetitive workflows
 - **100MB+ 지리정보 데이터** 최적화 / **100MB+ geospatial data** optimization
 - **분쟁 위험 관리** 기능 (소송/측량 비용 사전 계산) / **Dispute risk management** features (pre-calculation of litigation/survey costs)
 - **정부 포털 연동** (토지이음, 대법원 인터넷등기소) / **Government portal integration** (Toji-eum, Supreme Court Registry)
@@ -73,13 +73,13 @@
 - **청크 로딩**: 100MB+ 지리정보 데이터를 1,000 피처 단위 청크로 처리 / **Chunk Loading**: 100MB+ geospatial data processed in 1,000-feature chunks
 - **동적 로딩**: 화면에 보이는 지도 영역만 로드해 메모리 사용 최소화 / **Dynamic Loading**: Only visible map areas loaded to minimize memory usage
 - **지능형 캐싱**: 자주 접근하는 데이터는 LocalStorage 활용 / **Intelligent Caching**: LocalStorage for frequently accessed data
-- **결과**: 전체 데이터셋 로딩 대비 **80% 메모리 절감** / **Result**: **80% memory reduction** compared to full dataset loading
+- **결과**: 전체 데이터셋 로딩 대비 메모리 사용 대폭 절감 / **Result**: substantially lower memory use than full-dataset loading
 
 ### 3. 상태 보존 프로젝트 관리 / Stateful Project Management
 - **LocalStorage 영속화**: 프로젝트 상태 자동 저장 (5-10MB 제한) / **LocalStorage Persistence**: Automatic project state saving (5-10MB limit)
 - **File API 내보내기/가져오기**: JSON 파일로 무제한 프로젝트 크기 / **File API Export/Import**: Unlimited project size via JSON files
 - **IndexedDB 연동**: 파일 핸들 영속화로 매끄러운 UX / **IndexedDB Integration**: File handle persistence for seamless UX
-- **결과**: 프로젝트 재사용으로 **80%+ 워크플로우 시간 단축** / **Result**: **80%+ workflow time reduction** through project reuse
+- **결과**: 프로젝트 재사용으로 워크플로우 시간 대폭 단축 / **Result**: substantial workflow-time reduction through project reuse
 
 ### 4. 공공 데이터 연동 / Public Data Integration
 - **VWorld OpenAPI**: 지적도, 토지 공시지가, 주소 검색 / **VWorld OpenAPI**: Cadastral maps, land valuation, address search
@@ -136,7 +136,7 @@
 ### 3. VWorld API CORS 처리 / VWorld API CORS Handling
 **과제 / Challenge**: 직접 API 호출을 차단하는 교차 출처 제한 / Cross-origin restrictions blocking direct API calls  
 **해결 / Solution**: JSONP 폴백 + WMS 레이어 대안 / JSONP fallback + WMS layer alternative  
-**결과 / Result**: 모든 브라우저에서 100% API 가용성 / 100% API availability across all browsers
+**결과 / Result**: 모든 브라우저에서 안정적인 API 가용성 / consistent API availability across all browsers
 
 ### 4. 반응형 지도 인터페이스 / Responsive Map Interface
 **과제 / Challenge**: 다중 데이터 레이어와 컨트롤을 가진 복잡한 UI / Complex UI with multiple data layers and controls  
@@ -146,19 +146,15 @@
 ### 5. 프로젝트 상태 관리 / Project State Management
 **과제 / Challenge**: 상태 영속화가 필요한 복잡한 분석 워크플로우 / Complex analysis workflows requiring state persistence  
 **해결 / Solution**: 저장/불러오기/재개 기능을 갖춘 상태 보존 아키텍처 / Stateful architecture with save/load/resume capabilities  
-**결과 / Result**: 작업 연속성으로 80%+ 시간 단축 / 80%+ time reduction through work continuity
+**결과 / Result**: 작업 연속성으로 시간 대폭 단축 / substantial time reduction through work continuity
 
 ---
 
 ## 📊 성능 지표 / Performance Metrics
-| 지표 / Metric | 이전 / Before | 이후 / After | 개선 / Improvement |
-|--------|--------|-------|-------------|
-| **작업 시간 / Work Time** | 세션당 20-35분 / 20-35 minutes/session | 세션당 1-2분 / 1-2 minutes/session | **80%+ 단축 / reduction** |
-| **인프라 비용 / Infrastructure Cost** | 서버 + DB 비용 / Server + DB costs | **$0** (서버리스 / Serverless) | **100% 절감 / reduction** |
-| **데이터 처리 / Data Processing** | 수동 입력 / Manual entry | 자동 계산 / Automatic calculation | **완전 자동화 / Full automation** |
-| **메모리 사용 / Memory Usage** | 전체 데이터셋 로드 / Full dataset load | 청크 기반 로딩 / Chunk-based loading | **80% 절감 / reduction** |
-| **프로젝트 저장 / Project Storage** | LocalStorage로 제한 / Limited by LocalStorage | 무제한(File API) / Unlimited (File API) | **무제한 용량 / Unlimited capacity** |
-| **확장성 / Scalability** | 지역별 개별 빌드 / Region-specific builds | 전국 커버리지 / Nationwide coverage | **범용 시스템 / Universal system** |
+
+**[KR]** 세션당 반복 작업 시간을 크게 줄이고, 서버·DB 없이 운영비 $0로 동작하며, 대용량 지적 데이터를 청크 로딩으로 브라우저 내에서 처리합니다. File API로 프로젝트 저장 용량 제한을 없애고, 지역별 개별 빌드 없이 전국을 단일 시스템으로 커버합니다.
+
+**[EN]** Cuts per-session repetitive work substantially, runs at $0 (no server or DB), and processes large cadastral datasets in-browser via chunk loading. The File API removes project-storage limits, and a single system covers the whole country without region-specific builds.
 
 ---
 
