@@ -14,6 +14,7 @@
 [![Web](https://img.shields.io/badge/Web-macrobay.kr-brightgreen?style=for-the-badge&logo=vercel)](https://macrobay.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junebay-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/junebay)
 [![GitHub](https://img.shields.io/badge/GitHub-JuneBay-black?style=for-the-badge&logo=github)](https://github.com/JuneBay)
+[![Email](https://img.shields.io/badge/Email-contact@macrobay.kr-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@macrobay.kr)
 
 </div>
 
@@ -217,8 +218,9 @@ Results built on this philosophy:
 
 ## Contact
 
-**For project inquiries, use any of the 4 platforms above.**
+**For project inquiries, email us directly or use any of the 4 platforms above.**
 
+- 📧 [contact@macrobay.kr](mailto:contact@macrobay.kr) — Business email
 - 🌐 [macrobay.kr](https://macrobay.kr) — Portfolio site
 - 💼 [LinkedIn — linkedin.com/in/junebay](https://linkedin.com/in/junebay)
 - 🏢 [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/)

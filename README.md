@@ -20,6 +20,7 @@
 [![Web](https://img.shields.io/badge/Web-macrobay.kr-brightgreen?style=for-the-badge&logo=vercel)](https://macrobay.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junebay-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/junebay)
 [![GitHub](https://img.shields.io/badge/GitHub-JuneBay-black?style=for-the-badge&logo=github)](https://github.com/JuneBay)
+[![Email](https://img.shields.io/badge/Email-contact@macrobay.kr-D14836?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:contact@macrobay.kr)
 
 **MACROBAY** — IT Solutions by JuneBay
 
@@ -253,9 +254,10 @@ Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · Sen
 
 ## 연락 / Contact
 
-**외주 문의는 위 4개 플랫폼 중 편한 곳으로 보내주세요.**
-For project inquiries, please use one of the 4 platforms above.
+**외주 문의는 아래 업무 이메일 또는 위 4개 플랫폼 중 편한 곳으로 보내주세요.**
+For project inquiries, email us directly or use one of the 4 platforms above.
 
+- 📧 [contact@macrobay.kr](mailto:contact@macrobay.kr) — Business email (직접 문의)
 - 🌐 [macrobay.kr](https://macrobay.kr) — Portfolio site
 - 💼 [LinkedIn — linkedin.com/in/junebay](https://linkedin.com/in/junebay)
 - 🏢 [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/)
