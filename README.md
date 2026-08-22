@@ -15,6 +15,7 @@
 <div align="center">
 
 **1인 사업자 · End-to-End 시스템 설계 및 빌드 · 25년+ 실무**
+**선별 프로젝트 & 원격 시니어 롤 / Select projects & senior remote roles**
 **MACROBAY · Solo Studio · South Korea · Remote Worldwide**
 
 [![Web](https://img.shields.io/badge/Web-macrobay.kr-brightgreen?style=for-the-badge&logo=vercel)](https://macrobay.kr)
@@ -28,33 +29,58 @@
 
 ---
 
-## 📍 외주 활동 중 / Available For Projects
+## 📍 지금 받는 일 / Engagements
 
-[![Upwork](https://img.shields.io/badge/Upwork-Active-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b49808a51af3b53c)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Active-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/junebay)
-[![Kmong](https://img.shields.io/badge/크몽-활동중-FF6B35?style=for-the-badge&logoColor=white)](https://kmong.com/@JuneBay)
-[![Wishket](https://img.shields.io/badge/위시켓-활동중-3B6BFF?style=for-the-badge&logoColor=white)](https://www.wishket.com/partners/p/somster/)
+**선별 프로젝트 · 장기 원격 시니어 롤**
+**Select projects · Long-term senior remote engagements**
 
-> 4개 플랫폼에서 동시에 외주 받고 있습니다. 보통 **24시간 안에** 답변드립니다.
-> Active on 4 freelance platforms — typical response time **within 24 hours**.
+- 소수의 프로젝트를 깊이 있게 — 기획·개발·배포·운영까지 한 사람이 끝까지 갑니다
+- **100% 원격**으로 일하며, 협업은 문서·채팅 중심입니다
+- 필요하시면 **주 1회 정기 미팅**과 착수 미팅은 언제든 가능합니다
+- 시차·국가 무관 — 전 세계 어디서든 원격으로 진행합니다
+
+> 문의는 보통 **24시간 안에** 답변드립니다. / Typical response time **within 24 hours**.
 
 ---
 
-## 누구인가 / Who We Are
+## 누구인가 / Who I Am
 
-**MACROBAY는 1인 시스템 아키텍처 스튜디오입니다.**
-- 25년 이상 시스템 설계·운영 경험 (금융, AI, IoT, 지리정보, 자동화)
-- 코드만 짜는 게 아니라 **"비즈니스 목표 → 작동하는 시스템"** 까지 책임
-- $0 인프라 / 3년+ 무중단 운영 / 성능 최적화 등 실제 운영 결과 보유
+**MACROBAY는 전준배 1인의 시스템 아키텍처 스튜디오입니다.**
+- 25년+ 시스템 설계·운영 (금융, AI, IoT, 지리정보, 자동화)
+- 코드만 짜고 끝내지 않습니다 — **"비즈니스 목표 → 작동하는 시스템"** 까지 제가 마무리짓습니다
+- $0 인프라 / 3년+ 무중단 운영 — 만들어 놓고 지금까지 직접 운영해 온 결과입니다
 - **"이론적 완벽함보다 현실 운영 가능성"** — 비용·운영 지속성 우선 설계
 
-**MACROBAY is a 1-person systems architecture studio**, founded by a senior architect with 25+ years across finance, AI, IoT, geospatial, and automation. We focus on **operational sustainability over theoretical perfection** — building systems that survive in production at sustainable cost.
+**MACROBAY is the one-person systems architecture studio of JoonBae Jhun**, a senior architect with 25+ years across finance, AI, IoT, geospatial systems and automation. I favour **operational sustainability over theoretical perfection** — systems that survive in production at a cost their owner can carry.
 
 🌐 **Portfolio site**: [macrobay.kr](https://macrobay.kr)
 
 ---
 
-## 어떤 작업을 받습니까 / What We Build
+## 경력 · 배경 / Background
+
+지금의 스택은 갑자기 생긴 것이 아닙니다. 그래픽·게임 소프트웨어에서 시작해 계측기기·임베디드를 거쳐, 지금의 IoT·AI 시스템으로 이어집니다.
+
+| 시기 | 내용 |
+|---|---|
+| **1990** | 『스플래쉬』 공저 — VGA 256색 그래픽 편집기 매뉴얼 (세운, 국립중앙도서관 소장) |
+| **1991** | **삼성전자 소프트웨어 멤버십** 선발 (재학 중) — 멤버십 활동으로 게임 타이틀 음악 작업 참여 |
+| **1993 ~ 1994** | (주)선일옵트론 — 환경계측기기 제어·분석 소프트웨어 |
+| **1994 ~ 1997** | 세중무역상사 — 낙농 유전개량(mating) 프로그램 개발, 미국 파트너사와 협업 |
+| **1996 ~ 1999** | 고려대학교 컴퓨터공학 석사 — 논문 「컴퓨터 게임 소프트웨어 개발 방법과 사례 연구」 |
+| **1997 ~ 2001** | MACROBAY 1차 (자영) — 쇼핑몰·게임기획·IT |
+| **2004 ~ 2006** | 비엔티(주) — 임베디드 소프트웨어 개발 |
+| **2010 ~ 2013** | (주)니모닉스 **이사** — 게임 사업개발 · 퍼블리셔 소싱 · 해외사업 |
+| **2000 ~ 2023** | 개인 트레이더 / 증권 데이터 시스템 개발 (병행) |
+| **2020 ~ 현재** | Market Data · FarmStudio(IoT) · MyLandManager(GIS) · WhatIF Factory(AI) · MACROBAY |
+
+**학력** — 단국대학교 전자공학과 학사(1989~1993) · 고려대학교 컴퓨터공학(소프트웨어) 석사(1996~1999)
+
+> 전자공학으로 시작해 계측·임베디드 펌웨어를 다뤘고, 그 위에 그래픽·게임·데이터가 얹혔습니다. ESP32 펌웨어부터 LLM 파이프라인까지 한 사람이 관통하는 이유입니다.
+
+---
+
+## 어떤 작업을 받습니까 / What I Build
 
 | # | 카테고리 | 대표 결과물 | 핵심 기술 |
 |---|---|---|---|
@@ -74,7 +100,7 @@
 
 ---
 
-## 진행 방식 / How We Work
+## 진행 방식 / How I Work
 
 1. **무엇을 원하시는지 어떤 형식이든 보내주세요**
    메모, 사진, 문서, 스케치, 음성 메모 — 형식 무관
@@ -254,13 +280,13 @@ Financial Systems · Geospatial Decision Support · IoT Remote Monitoring · Sen
 
 ## 연락 / Contact
 
-**외주 문의는 아래 업무 이메일 또는 위 4개 플랫폼 중 편한 곳으로 보내주세요.**
-For project inquiries, email us directly or use one of the 4 platforms above.
+**프로젝트 의뢰·원격 시니어 롤 문의는 아래 업무 이메일이나 LinkedIn으로 보내주세요.**
+For project enquiries and senior remote engagements, email me directly or reach me on LinkedIn.
 
 - 📧 [contact@macrobay.kr](mailto:contact@macrobay.kr) — Business email (직접 문의)
 - 🌐 [macrobay.kr](https://macrobay.kr) — Portfolio site
 - 💼 [LinkedIn — linkedin.com/in/junebay](https://linkedin.com/in/junebay)
-- 🏢 [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/)
+- 🏢 프리랜스 플랫폼 / Freelance platforms: [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/)
 
 응답: 보통 **24시간 이내** · Response: typically **within 24 hours**
 
@@ -269,8 +295,9 @@ For project inquiries, email us directly or use one of the 4 platforms above.
 <div align="center">
 
 **MACROBAY** · *Solo Systems Studio*
-*"Give us your goal — we'll deliver a working system."*
+*"Give me your goal — I'll deliver a working system."*
 
-**비슷한 작업 의뢰 가능합니다 — Project commissions and technical partnerships welcome.**
+**프로젝트 의뢰 · 장기 원격 시니어 롤 · 기술 파트너십 모두 환영합니다.**
+**Project commissions, senior remote engagements and technical partnerships are all welcome.**
 
 </div>

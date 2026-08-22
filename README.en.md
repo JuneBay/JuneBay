@@ -9,7 +9,8 @@
 <div align="center">
 
 **Solo Systems Studio · End-to-End Architecture & Build · 25+ Years**
-**MACROBAY · Seoul / Cheongyang · Remote Worldwide**
+**MACROBAY · Seoul, South Korea · Remote Worldwide**
+**Select projects & senior remote roles**
 
 [![Web](https://img.shields.io/badge/Web-macrobay.kr-brightgreen?style=for-the-badge&logo=vercel)](https://macrobay.kr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-junebay-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/junebay)
@@ -20,30 +21,55 @@
 
 ---
 
-## 📍 Available For Projects
+## 📍 Engagements
 
-[![Upwork](https://img.shields.io/badge/Upwork-Active-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01b49808a51af3b53c)
-[![Fiverr](https://img.shields.io/badge/Fiverr-Active-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/sellers/junebay)
-[![Kmong](https://img.shields.io/badge/크몽-Active-FF6B35?style=for-the-badge&logoColor=white)](https://kmong.com/@JuneBay)
-[![Wishket](https://img.shields.io/badge/위시켓-Active-3B6BFF?style=for-the-badge&logoColor=white)](https://www.wishket.com/partners/p/somster/)
+**Select projects · Long-term senior remote engagements**
 
-> Active on 4 freelance platforms — typical response time **within 24 hours**.
+- A limited number of projects, each taken properly — planning, development, deployment and operation, end to end
+- I work **fully remotely** and collaborate primarily in writing
+- A **weekly sync** and a kick-off call are available whenever they are useful
+- Time zone and country are not an obstacle — remote, worldwide
+
+> Typical response time **within 24 hours**.
 
 ---
 
-## Who We Are
+## Who I Am
 
-**MACROBAY is a 1-person systems architecture studio.**
+**MACROBAY is the one-person systems architecture studio of JoonBae Jhun.**
 - 25+ years of systems design and operations (finance, AI, IoT, geospatial, automation)
-- We don't just write code — we take responsibility from **"business goal → working system"**
-- Proven production results: $0 infrastructure · 3+ years zero-downtime · sustained performance gains
-- **"Practical sustainability over theoretical perfection"** — cost and operational continuity first
+- I do not stop at writing code — I see it through from **business goal to working system**
+- $0 infrastructure · 3+ years zero-downtime — systems I built and have operated ever since
+- **Operational sustainability over theoretical perfection** — cost and continuity come first
 
 🌐 **Portfolio site**: [macrobay.kr](https://macrobay.kr)
 
 ---
 
-## What We Build
+## Background
+
+The present stack did not appear overnight. It began with graphics and game software, passed through instrumentation and embedded firmware, and led to the IoT and AI systems I run today.
+
+| Period | |
+|---|---|
+| **1990** | Co-author, *Splash* — a manual for a 256-colour VGA graphics editor (Sewoon; held by the National Library of Korea) |
+| **1991** | Selected for the **Samsung Electronics Software Membership** while at university — contributed music to a game title as part of the programme |
+| **1993 – 1994** | Sunil Optron — control and analysis software for environmental measurement instruments |
+| **1994 – 1997** | Sejung Trading — dairy-genetics mating programme, in collaboration with a US partner company |
+| **1996 – 1999** | MSc in Computer Science, Korea University — thesis on computer-game software development methodology |
+| **1997 – 2001** | MACROBAY (first incarnation, self-employed) |
+| **2004 – 2006** | BNT — embedded software development |
+| **2010 – 2013** | Nimonix — **Director**, game business development, publisher sourcing and overseas partnerships |
+| **2000 – 2023** | Independent trader / securities data systems development (in parallel) |
+| **2020 – present** | Market Data · FarmStudio (IoT) · MyLandManager (GIS) · WhatIF Factory (AI) · MACROBAY |
+
+**Education** — BEng Electronic Engineering, Dankook University (1989–1993) · MSc Computer Science (Software), Korea University (1996–1999)
+
+> Electronic engineering first, then instrumentation and embedded firmware, with graphics, games and data layered on top. That is why ESP32 firmware and LLM pipelines can sit with the same pair of hands.
+
+---
+
+## What I Build
 
 | # | Category | Representative Result | Core Tech |
 |---|---|---|---|
@@ -63,11 +89,11 @@
 
 ---
 
-## How We Work
+## How I Work
 
-1. **Send us what you want — in any format**
+1. **Send me what you want — in any format**
    Notes, photos, documents, sketches, voice memos — format doesn't matter
-2. **We organize and propose direction within 24 hours**
+2. **I organise it and propose a direction within 24 hours**
    Clear tech stack, timeline, estimated cost, and deliverables
 3. **Build starts after direction is confirmed**
    Daily or weekly progress updates (agreed at contract)
@@ -218,12 +244,12 @@ Results built on this philosophy:
 
 ## Contact
 
-**For project inquiries, email us directly or use any of the 4 platforms above.**
+**For project enquiries and senior remote engagements, email me directly or reach me on LinkedIn.**
 
 - 📧 [contact@macrobay.kr](mailto:contact@macrobay.kr) — Business email
 - 🌐 [macrobay.kr](https://macrobay.kr) — Portfolio site
 - 💼 [LinkedIn — linkedin.com/in/junebay](https://linkedin.com/in/junebay)
-- 🏢 [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [크몽](https://kmong.com/@JuneBay) · [위시켓](https://www.wishket.com/partners/p/somster/)
+- 🏢 Freelance platforms: [Upwork](https://www.upwork.com/freelancers/~01b49808a51af3b53c) · [Fiverr](https://www.fiverr.com/sellers/junebay) · [Kmong](https://kmong.com/@JuneBay) · [Wishket](https://www.wishket.com/partners/p/somster/)
 
 Response: typically **within 24 hours**
 
@@ -232,8 +258,8 @@ Response: typically **within 24 hours**
 <div align="center">
 
 **MACROBAY** · *Solo Systems Studio*
-*"Give us your goal — we'll deliver a working system."*
+*"Give me your goal — I'll deliver a working system."*
 
-**Project commissions and technical partnerships welcome.**
+**Project commissions, senior remote engagements and technical partnerships are all welcome.**
 
 </div>
